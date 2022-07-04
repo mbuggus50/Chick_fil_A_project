@@ -1,0 +1,525 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/240--Western"">240 &amp; Western</a>
+                        </h2>
+
+                        <p>
+                            920 W I 240 Service Rd
+                            <br/>Oklahoma City, OK 73139
+                                <br/>
+(405) 632-2525                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/2nd--Bryant"">2nd &amp; Bryant</a>
+                        </h2>
+
+                        <p>
+                            1210 E 2nd St
+                            <br/>Edmond, OK 73034
+                                <br/>
+(405) 330-1141                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/33rd--Broadway"">33rd &amp; Broadway</a>
+                        </h2>
+
+                        <p>
+                            52 E 33rd St
+                            <br/>Edmond, OK 73013
+                                <br/>
+(405) 330-6946                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Ardmore"">Ardmore</a>
+                        </h2>
+
+                        <p>
+                            2500 12th Ave NW
+                            <br/>Ardmore, OK 73401
+                                <br/>
+(580) 319-7901                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Bartlesville"">Bartlesville</a>
+                        </h2>
+
+                        <p>
+                            602 SE Washington Blvd
+                            <br/>Bartlesville, OK 74006
+                                <br/>
+(918) 331-9956                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Bixby"">Bixby</a>
+                        </h2>
+
+                        <p>
+                            10437 S Memorial Dr
+                            <br/>Tulsa, OK 74133
+                                <br/>
+(918) 369-6464                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Broken-Arrow"">Broken Arrow</a>
+                        </h2>
+
+                        <p>
+                            850 E. Kenosha Street
+                            <br/>Broken Arrow, OK 74012
+                                <br/>
+(918) 251-0199                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Cache-Road"">Cache Road</a>
+                        </h2>
+
+                        <p>
+                            2301 NW Cache Rd
+                            <br/>Lawton, OK 73505
+                                <br/>
+(580) 353-7766                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Central-Mall-OK"">Central Mall (OK)</a>
+                        </h2>
+
+                        <p>
+                            200 Sw C Ave
+                                <br/>
+18 Central Mall                            <br/>Lawton, OK 73501
+                                <br/>
+(580) 353-5989                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Claremore"">Claremore</a>
+                        </h2>
+
+                        <p>
+                            664 S Lynn Riggs Blvd
+                            <br/>Claremore, OK 74017
+                                <br/>
+(918) 283-2389                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Duncan-Regional-Hospital"">Duncan Regional Hospital</a>
+                        </h2>
+
+                        <p>
+                            1407 N Whisenant Dr
+                            <br/>Duncan, OK 73533
+                                <br/>
+(580) 251-8767                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Eastside-Market"">Eastside Market</a>
+                        </h2>
+
+                        <p>
+                            11201 E 71st St
+                            <br/>Tulsa, OK 74133
+                                <br/>
+(918) 461-0777                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Enid"">Enid</a>
+                        </h2>
+
+                        <p>
+                            4329 W Owen K Garriott Rd
+                            <br/>Enid, OK 73703
+                                <br/>
+(580) 234-9801                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Gaylord-Family-Oklahoma-Memorial-Stadium"">Gaylord Family Oklahoma Memorial Stadium</a>
+                        </h2>
+
+                        <p>
+                            180 W Brooks
+                                <br/>
+University of Oklahoma                            <br/>Norman, OK 73019
+                                <br/>
+(405) 325-6851                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/I-35-at-15th"">I-35 at 15th</a>
+                        </h2>
+
+                        <p>
+                            1025 W I 35 Frontage Rd
+                            <br/>Edmond, OK 73034
+                                <br/>
+(405) 844-0077                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/I40--MacArthur"">I-40 &amp; MacArthur</a>
+                        </h2>
+
+                        <p>
+                            6420 SW 3rd St
+                            <br/>Oklahoma City, OK 73128
+                                <br/>
+(405) 440-0500                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/May-and-63rd"">May and 63rd</a>
+                        </h2>
+
+                        <p>
+                            6201 N May Ave
+                            <br/>Oklahoma City, OK 73112
+                                <br/>
+(405) 810-8888                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Midwest-City"">Midwest City</a>
+                        </h2>
+
+                        <p>
+                            7331 SE 29th St
+                            <br/>Midwest City, OK 73110
+                                <br/>
+(405) 741-1500                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Moore"">Moore</a>
+                        </h2>
+
+                        <p>
+                            2001 S Telephone Rd
+                            <br/>Moore, OK 73160
+                                <br/>
+(405) 799-6100                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Muskogee"">Muskogee</a>
+                        </h2>
+
+                        <p>
+                            2004 N 11th St
+                            <br/>Muskogee, OK 74401
+                                <br/>
+(918) 687-1100                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Norman"">Norman</a>
+                        </h2>
+
+                        <p>
+                            2437 W Main St
+                            <br/>Norman, OK 73069
+                                <br/>
+(405) 579-1500                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Northeastern-State-University"">Northeastern State University</a>
+                        </h2>
+
+                        <p>
+                            600 N Grand Ave
+                            <br/>Tahlequah, OK 74464
+                                <br/>
+(918) 456-5511                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Oklahoma-Baptist-University"">Oklahoma Baptist University</a>
+                        </h2>
+
+                        <p>
+                            500 W University St
+                                <br/>
+Geiger Center                            <br/>Shawnee, OK 74804
+                                <br/>
+(405) 585-5386                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Oklahoma-Christian-University"">Oklahoma Christian University</a>
+                        </h2>
+
+                        <p>
+                            2501 E Memorial Rd
+                                <br/>
+Edward L. Gaylord University Center                            <br/>Edmond, OK 73013
+                                <br/>
+(405) 425-5019                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Oklahoma-State-University"">Oklahoma State University</a>
+                        </h2>
+
+                        <p>
+                            Room 177
+                                <br/>
+Student Union Building                            <br/>Stillwater, OK 74078
+                                <br/>
+(405) 744-7393                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Oral-Roberts-University"">Oral Roberts University</a>
+                        </h2>
+
+                        <p>
+                            7777 S Lewis Ave
+                            <br/>Tulsa, OK 74171
+                                <br/>
+(918) 495-6357                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Owasso-Market"">Owasso Market</a>
+                        </h2>
+
+                        <p>
+                            12015 E 96th St N
+                            <br/>Owasso, OK 74055
+                                <br/>
+(918) 272-7201                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Penn-Square-Mall"">Penn Square Mall</a>
+                        </h2>
+
+                        <p>
+                            1901 NW Expressway Ste 2045A
+                            <br/>Oklahoma City, OK 73118
+                                <br/>
+(405) 843-5122                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Quail-Springs"">Quail Springs</a>
+                        </h2>
+
+                        <p>
+                            14040 N Pennsylvania Ave
+                            <br/>Oklahoma City, OK 73134
+                                <br/>
+(405) 752-8100                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Quail-Springs-Mall"">Quail Springs Mall</a>
+                        </h2>
+
+                        <p>
+                            2501 W Memorial Rd Ste 12
+                            <br/>Oklahoma City, OK 73134
+                                <br/>
+(405) 755-4762                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Rockwell--NW-Highway"">Rockwell &amp; NW Highway</a>
+                        </h2>
+
+                        <p>
+                            7004 NW Expressway
+                            <br/>Oklahoma City, OK 73132
+                                <br/>
+(405) 728-9494                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Shawnee"">Shawnee</a>
+                        </h2>
+
+                        <p>
+                            4637 N Kickapoo Ave
+                            <br/>Shawnee, OK 74804
+                                <br/>
+(405) 273-1388                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Sooner-Mall"">Sooner Mall</a>
+                        </h2>
+
+                        <p>
+                            3351 W Main St
+                            <br/>Norman, OK 73072
+                                <br/>
+(405) 364-4364                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Southroads-Shopping-Center"">Southroads Shopping Center</a>
+                        </h2>
+
+                        <p>
+                            4933 E 41st St
+                            <br/>Tulsa, OK 74135
+                                <br/>
+(918) 622-7815                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Stillwater"">Stillwater</a>
+                        </h2>
+
+                        <p>
+                            600 E Hall Of Fame Ave
+                            <br/>Stillwater, OK 74075
+                                <br/>
+(405) 742-2111                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Tulsa-Hills"">Tulsa Hills</a>
+                        </h2>
+
+                        <p>
+                            7129 S Olympia Ave W
+                            <br/>Tulsa, OK 74132
+                                <br/>
+(918) 445-7200                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/University-of-Central-Oklahoma"">University of Central Oklahoma</a>
+                        </h2>
+
+                        <p>
+                            100 N University Dr
+                            <br/>Edmond, OK 73034
+                                <br/>
+(405) 974-4637                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/University-of-Oklahoma"">University of Oklahoma</a>
+                        </h2>
+
+                        <p>
+                            1400 Asp Ave
+                                <br/>
+Room 133                            <br/>Norman, OK 73019
+                                <br/>
+(405) 325-6851                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/University-of-Oklahoma-Couch-Building"">University of Oklahoma Couch Building</a>
+                        </h2>
+
+                        <p>
+                            333 3 St
+                            <br/>Norman, OK 73019
+                                <br/>
+(405) 325-5185                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/University-of-Oklahoma-Health-Science-Center"">University of Oklahoma Health Science Center</a>
+                        </h2>
+
+                        <p>
+                            1106 N Stonewall Ave
+                                <br/>
+Student Center 132                            <br/>Oklahoma City, OK 73117
+                                <br/>
+(405) 271-3660                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/University-of-Tulsa"">University of Tulsa</a>
+                        </h2>
+
+                        <p>
+                            440 S Gary Ave
+                            <br/>Tulsa, OK 74104
+                                <br/>
+(918) 631-2186                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Woodland-Hills-Mall"">Woodland Hills Mall</a>
+                        </h2>
+
+                        <p>
+                            7021 S Memorial Dr Ste 260A
+                            <br/>Tulsa, OK 74133
+                                <br/>
+(918) 252-4429                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/OK/Yukon"">Yukon</a>
+                        </h2>
+
+                        <p>
+                            1724 Garth Brooks Blvd
+                            <br/>Yukon, OK 73099
+                                <br/>
+(405) 354-6280                        </p>
+                    </div>
+    "

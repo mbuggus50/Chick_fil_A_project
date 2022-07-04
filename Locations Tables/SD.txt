@@ -1,0 +1,27 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/SD/South-Dakota-State-University"">South Dakota State University</a>
+                        </h2>
+
+                        <p>
+                            1421 Student Union Ln
+                                <br/>
+University Student Union                            <br/>Brookings, SD 57007
+                                <br/>
+(605) 697-2559                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/SD/University-of-South-Dakota"">University of South Dakota</a>
+                        </h2>
+
+                        <p>
+                            414 E Clark St
+                                <br/>
+Muenster Student Union                            <br/>Vermillion, SD 57069
+                        </p>
+                    </div>
+    "

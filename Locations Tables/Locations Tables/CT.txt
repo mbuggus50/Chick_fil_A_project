@@ -1,0 +1,112 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/CT/Brookfield"">Brookfield</a>
+                        </h2>
+
+                        <p>
+                            156 Federal Rd
+                            <br/>Brookfield, CT 06804
+                                <br/>
+(203) 775-7976                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/CT/Danbury-Fair-Mall"">Danbury Fair Mall</a>
+                        </h2>
+
+                        <p>
+                            Chick-fil-A at Danbury Fair Mall
+                                <br/>
+7 Backus Avenue                            <br/>Danbury, CT 06810
+                                <br/>
+(203) 796-1037                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/CT/Enfield"">Enfield</a>
+                        </h2>
+
+                        <p>
+                            25 Hazard Ave
+                            <br/>Enfield, CT 06082
+                                <br/>
+(860) 253-0469                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/CT/Mohegan-Sun-Resort"">Mohegan Sun Resort</a>
+                        </h2>
+
+                        <p>
+                            1 Mohegan Sun Blvd
+                                <br/>
+Earth Concourse                            <br/>Uncasville, CT 06382
+                                <br/>
+(570) 591-1910                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/CT/North-Haven"">North Haven</a>
+                        </h2>
+
+                        <p>
+                            560 Universal Dr N
+                            <br/>North Haven, CT 06473
+                                <br/>
+(203) 234-0300                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/CT/Norwalk"">Norwalk</a>
+                        </h2>
+
+                        <p>
+                            467 Connecticut Ave
+                            <br/>Norwalk, CT 06854
+                                <br/>
+(203) 831-0196                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/CT/Southington-CT"">Southington (CT)</a>
+                        </h2>
+
+                        <p>
+                            801 Queen St
+                            <br/>Southington, CT 06489
+                                <br/>
+(860) 276-0500                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/CT/Wallingford"">Wallingford</a>
+                        </h2>
+
+                        <p>
+                            1098 N Colony Rd
+                            <br/>Wallingford, CT 06492
+                                <br/>
+(203) 265-4747                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/CT/West-Hartford"">West Hartford</a>
+                        </h2>
+
+                        <p>
+                            509 New Park Ave
+                            <br/>West Hartford, CT 06110
+                                <br/>
+(860) 461-1691                        </p>
+                    </div>
+    "

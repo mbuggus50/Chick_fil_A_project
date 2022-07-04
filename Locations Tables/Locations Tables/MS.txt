@@ -1,0 +1,389 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Alcorn-State-University"">Alcorn State University</a>
+                        </h2>
+
+                        <p>
+                            1000 Alcorn Dr
+                            <br/>Lorman, MS 39096
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Barnes-Crossing-Mall"">Barnes Crossing Mall</a>
+                        </h2>
+
+                        <p>
+                            1001 Barnes Crossing Rd Ste 14
+                            <br/>Tupelo, MS 38804
+                                <br/>
+(662) 844-9616                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Brandon"">Brandon</a>
+                        </h2>
+
+                        <p>
+                            201 Disotell Blvd
+                            <br/>Brandon, MS 39042
+                                <br/>
+(601) 939-7188                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Clinton"">Clinton</a>
+                        </h2>
+
+                        <p>
+                            952 Highway 80 E
+                            <br/>Clinton, MS 39056
+                                <br/>
+(601) 924-8892                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Columbus"">Columbus</a>
+                        </h2>
+
+                        <p>
+                            528 18th Ave N
+                            <br/>Columbus, MS 39705
+                                <br/>
+(662) 329-5979                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/County-Line-Road"">County Line Road</a>
+                        </h2>
+
+                        <p>
+                            1065 E County Line Rd
+                            <br/>Jackson, MS 39211
+                                <br/>
+(601) 991-3265                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Delta-State-University"">Delta State University</a>
+                        </h2>
+
+                        <p>
+                            200 Washington St
+                                <br/>
+Nowell Student Union Building                            <br/>Cleveland, MS 38732
+                                <br/>
+(662) 846-4645                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/DIberville"">D&#39;Iberville</a>
+                        </h2>
+
+                        <p>
+                            3842 Promenade Pkwy
+                            <br/>Diberville, MS 39540
+                                <br/>
+(228) 392-1892                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Dogwood-Festival"">Dogwood Festival</a>
+                        </h2>
+
+                        <p>
+                            274 Dogwood Blvd
+                            <br/>Flowood, MS 39232
+                                <br/>
+(601) 992-2554                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Edgewater-Mall"">Edgewater Mall</a>
+                        </h2>
+
+                        <p>
+                            2600 Beach Blvd
+                            <br/>Biloxi, MS 39531
+                                <br/>
+(228) 388-2648                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Gulfport"">Gulfport</a>
+                        </h2>
+
+                        <p>
+                            11001 Highway 49
+                            <br/>Gulfport, MS 39503
+                                <br/>
+(228) 831-9599                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Hattiesburg"">Hattiesburg</a>
+                        </h2>
+
+                        <p>
+                            6099 U S Highway 98
+                            <br/>Hattiesburg, MS 39402
+                                <br/>
+(601) 579-9119                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Jackson-State-University"">Jackson State University</a>
+                        </h2>
+
+                        <p>
+                            1400 J R Lynch St
+                                <br/>
+Student Center                            <br/>Jackson, MS 39217
+                                <br/>
+(504) 418-2632                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Laurel-MS"">Laurel (MS)</a>
+                        </h2>
+
+                        <p>
+                            1138 Highway 15 N
+                            <br/>Laurel, MS 39440
+                                <br/>
+(601) 425-1995                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Madison-MS"">Madison (MS)</a>
+                        </h2>
+
+                        <p>
+                            1873 Main St
+                            <br/>Madison, MS 39110
+                                <br/>
+(601) 898-2338                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Meridian-Crossroads"">Meridian Crossroads</a>
+                        </h2>
+
+                        <p>
+                            109 S Frontage Rd
+                            <br/>Meridian, MS 39301
+                                <br/>
+(601) 581-1479                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Mississippi-Baptist-Medical-Center"">Mississippi Baptist Medical Center</a>
+                        </h2>
+
+                        <p>
+                            1225 N State St
+                            <br/>Jackson, MS 39202
+                                <br/>
+(601) 973-1646                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Mississippi-State-University"">Mississippi State University</a>
+                        </h2>
+
+                        <p>
+                            Po Box 6229
+                                <br/>
+Perry Cafeteria/Darden Avenue                            <br/>Mississippi State, MS 39762
+                                <br/>
+(662) 325-2849                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/North-Mississippi-Medical-Center"">North Mississippi Medical Center</a>
+                        </h2>
+
+                        <p>
+                            830 S Gloster St
+                            <br/>Tupelo, MS 38801
+                                <br/>
+(662) 377-2140                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Northpark-Mall-MS"">Northpark Mall (MS)</a>
+                        </h2>
+
+                        <p>
+                            1200 E County Line Rd Ste 232
+                            <br/>Ridgeland, MS 39157
+                                <br/>
+(601) 957-3287                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Olive-Branch"">Olive Branch</a>
+                        </h2>
+
+                        <p>
+                            8101 Camp Creek Rd
+                            <br/>Olive Branch, MS 38654
+                                <br/>
+(662) 890-2697                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Regions-Plaza"">Regions Plaza</a>
+                        </h2>
+
+                        <p>
+                            210 E Capitol St
+                            <br/>Jackson, MS 39201
+                                <br/>
+(601) 352-1450                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Sawmill-Square"">Sawmill Square</a>
+                        </h2>
+
+                        <p>
+                            910 Sawmill Rd Ste 206
+                            <br/>Laurel, MS 39440
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Southaven"">Southaven</a>
+                        </h2>
+
+                        <p>
+                            235 Goodman Rd W
+                            <br/>Southaven, MS 38671
+                                <br/>
+(662) 349-3587                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Starkville"">Starkville</a>
+                        </h2>
+
+                        <p>
+                            701 Highway 12 E
+                            <br/>Starkville, MS 39759
+                                <br/>
+(662) 324-4460                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Thompson-Square"">Thompson Square</a>
+                        </h2>
+
+                        <p>
+                            908 Barnes Crossing Rd
+                            <br/>Tupelo, MS 38804
+                                <br/>
+(662) 844-1270                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Turtle-Creek-Mall"">Turtle Creek Mall</a>
+                        </h2>
+
+                        <p>
+                            1000 Turtle Creek Dr Ste 270
+                            <br/>Hattiesburg, MS 39402
+                                <br/>
+(601) 909-3023                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/University-of-Mississippi"">University of Mississippi</a>
+                        </h2>
+
+                        <p>
+                            Third Floor Student Union Bldg
+                                <br/>
+University of Miss Food Court                            <br/>University, MS 38677
+                                <br/>
+(662) 915-6690                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/University-of-Mississippi-Medical-Center"">University of Mississippi Medical Center</a>
+                        </h2>
+
+                        <p>
+                            2500 N State St
+                            <br/>Jackson, MS 39216
+                                <br/>
+(601) 815-7693                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/University-of-Southern-Mississippi"">University of Southern Mississippi</a>
+                        </h2>
+
+                        <p>
+                            118 College Dr
+                                <br/>
+Union Building                            <br/>Hattiesburg, MS 39406
+                                <br/>
+(601) 266-5376                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/Vicksburg"">Vicksburg</a>
+                        </h2>
+
+                        <p>
+                            3403 Halls Ferry Rd
+                            <br/>Vicksburg, MS 39180
+                                <br/>
+(601) 661-0001                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MS/West-Jackson-Avenue"">West Jackson Avenue</a>
+                        </h2>
+
+                        <p>
+                            2307 Jackson Ave W
+                            <br/>Oxford, MS 38655
+                                <br/>
+(662) 232-8787                        </p>
+                    </div>
+    "

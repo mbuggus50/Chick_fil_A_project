@@ -1,0 +1,136 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/DE/Bear"">Bear</a>
+                        </h2>
+
+                        <p>
+                            1101 Quintilio Dr
+                            <br/>Bear, DE 19701
+                                <br/>
+(302) 834-4816                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/DE/Camden-Town-Center"">Camden Town Center</a>
+                        </h2>
+
+                        <p>
+                            4044 S Dupont Hwy
+                            <br/>Camden, DE 19934
+                                <br/>
+(302) 697-6150                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/DE/Christiana"">Christiana</a>
+                        </h2>
+
+                        <p>
+                            4657 Ogletown Stanton Rd
+                            <br/>Newark, DE 19713
+                                <br/>
+(302) 737-3400                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/DE/Christiana-Mall"">Christiana Mall</a>
+                        </h2>
+
+                        <p>
+                            204 Christiana Mall
+                            <br/>Newark, DE 19702
+                                <br/>
+(302) 737-3200                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/DE/Concord-Mall"">Concord Mall</a>
+                        </h2>
+
+                        <p>
+                            4737 Concord Pike Ste 760
+                            <br/>Wilmington, DE 19803
+                                <br/>
+(302) 478-7763                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/DE/Delaware-State-University"">Delaware State University</a>
+                        </h2>
+
+                        <p>
+                            1200 N Dupont Hwy
+                                <br/>
+MLK Student Center                            <br/>Dover, DE 19901
+                                <br/>
+(302) 857-7209                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/DE/Middletown-DE"">Middletown (DE)</a>
+                        </h2>
+
+                        <p>
+                            701 S Ridge Ave
+                            <br/>Middletown, DE 19709
+                                <br/>
+(302) 376-7700                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/DE/Milford-Plaza"">Milford Plaza</a>
+                        </h2>
+
+                        <p>
+                            698 N Dupont Blvd # C
+                            <br/>Milford, DE 19963
+                                <br/>
+(302) 422-8825                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/DE/North-Dover"">North Dover</a>
+                        </h2>
+
+                        <p>
+                            1440 N Dupont Hwy
+                            <br/>Dover, DE 19901
+                                <br/>
+(302) 736-5226                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/DE/Rehoboth-Beach"">Rehoboth Beach</a>
+                        </h2>
+
+                        <p>
+                            19531 Coastal Hwy
+                            <br/>Rehoboth Beach, DE 19971
+                                <br/>
+(302) 212-2170                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/DE/University-of-Delaware"">University of Delaware</a>
+                        </h2>
+
+                        <p>
+                            17 W Main Street
+                                <br/>
+Trabant University Center                            <br/>Newark, DE 19713
+                                <br/>
+(302) 831-0510                        </p>
+                    </div>
+    "

@@ -1,0 +1,515 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Batavia"">Batavia</a>
+                        </h2>
+
+                        <p>
+                            185 N Randall Rd
+                            <br/>Batavia, IL 60510
+                                <br/>
+(630) 761-2640                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Bloomingdale"">Bloomingdale</a>
+                        </h2>
+
+                        <p>
+                            354 W Army Trail Rd
+                            <br/>Bloomingdale, IL 60108
+                                <br/>
+(630) 980-5088                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Bolingbrook"">Bolingbrook</a>
+                        </h2>
+
+                        <p>
+                            245 N Weber Rd
+                            <br/>Bolingbrook, IL 60490
+                                <br/>
+(630) 771-0080                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Bradley-University"">Bradley University</a>
+                        </h2>
+
+                        <p>
+                            1501 W Bradley Ave
+                                <br/>
+Michel Student Center                            <br/>Peoria, IL 61625
+                                <br/>
+(309) 677-3210                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Chicago-Ridge"">Chicago Ridge</a>
+                        </h2>
+
+                        <p>
+                            9600 Ridgeland Ave
+                            <br/>Chicago Ridge, IL 60415
+                                <br/>
+(708) 423-2442                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/College-of-DuPage"">College of DuPage</a>
+                        </h2>
+
+                        <p>
+                            425 Fawell Blvd
+                                <br/>
+Student Resource Center                            <br/>Glen Ellyn, IL 60137
+                                <br/>
+(630) 942-4534                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Countryside"">Countryside</a>
+                        </h2>
+
+                        <p>
+                            6007 S La Grange Rd
+                            <br/>Countryside, IL 60525
+                                <br/>
+(708) 482-7525                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Crystal-Lake"">Crystal Lake</a>
+                        </h2>
+
+                        <p>
+                            4812 Northwest Hwy
+                            <br/>Crystal Lake, IL 60014
+                                <br/>
+(815) 444-8611                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/East-Peoria"">East Peoria</a>
+                        </h2>
+
+                        <p>
+                            250 W Washington St
+                            <br/>East Peoria, IL 61611
+                                <br/>
+(309) 694-1044                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Eastern-Illinois-University"">Eastern Illinois University</a>
+                        </h2>
+
+                        <p>
+                            600 Lincoln Ave
+                                <br/>
+Office of Univ. Housing/Dining                            <br/>Charleston, IL 61920
+                                <br/>
+(217) 581-5733                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Elmhurst"">Elmhurst</a>
+                        </h2>
+
+                        <p>
+                            235 S Il Route 83
+                            <br/>Elmhurst, IL 60126
+                                <br/>
+(630) 279-2263                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Fairview-Heights"">Fairview Heights</a>
+                        </h2>
+
+                        <p>
+                            6203 N Illinois St
+                            <br/>Fairview Heights, IL 62208
+                                <br/>
+(618) 397-2200                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Fox-Valley-Center"">Fox Valley Center</a>
+                        </h2>
+
+                        <p>
+                            4435 Fox Valley Center Dr
+                            <br/>Aurora, IL 60504
+                                <br/>
+(630) 820-1660                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Green-Mount-Commons"">Green Mount Commons</a>
+                        </h2>
+
+                        <p>
+                            2532 Green Mount Commons
+                            <br/>Belleville, IL 62221
+                                <br/>
+(618) 257-9700                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Gurnee"">Gurnee</a>
+                        </h2>
+
+                        <p>
+                            6550 Grand Ave
+                            <br/>Gurnee, IL 60031
+                                <br/>
+(847) 782-9294                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Kildeer"">Kildeer</a>
+                        </h2>
+
+                        <p>
+                            20429 N Rand Rd
+                            <br/>Kildeer, IL 60047
+                                <br/>
+(847) 438-8600                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Lombard"">Lombard</a>
+                        </h2>
+
+                        <p>
+                            717 E Butterfield Rd
+                            <br/>Lombard, IL 60148
+                                <br/>
+(630) 586-0830                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Loyola-Water-Tower-In-Line"">Loyola Water Tower In-Line</a>
+                        </h2>
+
+                        <p>
+                            30 E Chicago Ave
+                            <br/>Chicago, IL 60611
+                                <br/>
+(312) 266-8888                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Melrose-Park"">Melrose Park</a>
+                        </h2>
+
+                        <p>
+                            2 Winston Plz
+                            <br/>Melrose Park, IL 60160
+                                <br/>
+(708) 345-2399                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Moline"">Moline</a>
+                        </h2>
+
+                        <p>
+                            3831 41st Avenue Dr
+                            <br/>Moline, IL 61265
+                                <br/>
+(309) 797-1605                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Mount-Prospect"">Mount Prospect</a>
+                        </h2>
+
+                        <p>
+                            950 N Elmhurst Rd
+                            <br/>Mount Prospect, IL 60056
+                                <br/>
+(847) 398-3880                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/North-Riverside"">North Riverside</a>
+                        </h2>
+
+                        <p>
+                            7201 W Cermak Rd
+                            <br/>North Riverside, IL 60546
+                                <br/>
+(708) 442-7006                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Old-Orchard"">Old Orchard</a>
+                        </h2>
+
+                        <p>
+                            9341 Skokie Blvd
+                            <br/>Skokie, IL 60077
+                                <br/>
+(847) 763-1002                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Orland-Park"">Orland Park</a>
+                        </h2>
+
+                        <p>
+                            15605 S La Grange Rd
+                            <br/>Orland Park, IL 60462
+                                <br/>
+(708) 460-4663                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Oswego"">Oswego</a>
+                        </h2>
+
+                        <p>
+                            2740 Us Highway 34
+                            <br/>Oswego, IL 60543
+                                <br/>
+(630) 554-8611                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Peoria"">Peoria</a>
+                        </h2>
+
+                        <p>
+                            4518 N Sterling Ave
+                                <br/>
+Northwoods Mall pad                            <br/>Peoria, IL 61615
+                                <br/>
+(309) 682-6246                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Rockford"">Rockford</a>
+                        </h2>
+
+                        <p>
+                            280 N Perryville Rd
+                            <br/>Rockford, IL 61107
+                                <br/>
+(815) 381-1010                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Schaumburg"">Schaumburg</a>
+                        </h2>
+
+                        <p>
+                            935 E Golf Rd
+                            <br/>Schaumburg, IL 60173
+                                <br/>
+(847) 517-1173                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Southern-Illinois-University---Carbondale"">Southern Illinois University - Carbondale</a>
+                        </h2>
+
+                        <p>
+                            1255 Lincoln Dr
+                                <br/>
+Student Center                            <br/>Carbondale, IL 62901
+                                <br/>
+(618) 453-1136                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Southern-Illinois-University-Edwardsville"">Southern Illinois University-Edwardsville</a>
+                        </h2>
+
+                        <p>
+                            University Ctr
+                                <br/>
+Box 1170                            <br/>Edwardsville, IL 62026
+                                <br/>
+(618) 650-3042                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Southpark-Mall-IL"">Southpark Mall (IL)</a>
+                        </h2>
+
+                        <p>
+                            4500 16th St
+                            <br/>Moline, IL 61265
+                                <br/>
+(309) 797-2271                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/State-and-Lake-In-Line"">State and Lake In-Line</a>
+                        </h2>
+
+                        <p>
+                            177 N State St
+                                <br/>
+Suite 1A                            <br/>Chicago, IL 60601
+                                <br/>
+(312) 419-1522                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/State-Farm---Corporate-South-H"">State Farm - Corporate South H</a>
+                        </h2>
+
+                        <p>
+                            3 State Farm Plz
+                                <br/>
+Corporate South H Building                            <br/>Bloomington, IL 61791
+                                <br/>
+(309) 763-2426                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/State-Farm-Corp-HQ"">State Farm Corp. HQ</a>
+                        </h2>
+
+                        <p>
+                            1 State Farm Plz
+                            <br/>Bloomington, IL 61710
+                                <br/>
+(309) 763-2398                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/State-Farm-South-Campus"">State Farm South Campus</a>
+                        </h2>
+
+                        <p>
+                            1 State Farm Plz
+                            <br/>Bloomington, IL 61710
+                                <br/>
+(309) 766-3909                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/University-of-Illinois---Chicago"">University of Illinois - Chicago</a>
+                        </h2>
+
+                        <p>
+                            750 S Halsted St
+                                <br/>
+Student Center East                            <br/>Chicago, IL 60607
+                                <br/>
+(312) 355-2338                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Vernon-Hills"">Vernon Hills</a>
+                        </h2>
+
+                        <p>
+                            701 N Milwaukee Ave Ste 360
+                            <br/>Vernon Hills, IL 60061
+                                <br/>
+(847) 247-8000                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Veterans--College"">Veterans &amp; College</a>
+                        </h2>
+
+                        <p>
+                            101 S Veterans Pkwy
+                            <br/>Normal, IL 61761
+                                <br/>
+(309) 268-9500                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/West-Schaumburg"">West Schaumburg</a>
+                        </h2>
+
+                        <p>
+                            90 Barrington Rd
+                            <br/>Schaumburg, IL 60194
+                                <br/>
+(847) 798-1424                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Wheaton"">Wheaton</a>
+                        </h2>
+
+                        <p>
+                            301 E Loop Rd
+                            <br/>Wheaton, IL 60189
+                                <br/>
+(630) 668-8350                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/White-Oaks"">White Oaks</a>
+                        </h2>
+
+                        <p>
+                            2431 Wabash Ave
+                            <br/>Springfield, IL 62704
+                                <br/>
+(217) 546-2000                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IL/Willowbrook"">Willowbrook</a>
+                        </h2>
+
+                        <p>
+                            7101 Kingery Hwy
+                            <br/>Willowbrook, IL 60527
+                                <br/>
+(630) 455-4426                        </p>
+                    </div>
+    "

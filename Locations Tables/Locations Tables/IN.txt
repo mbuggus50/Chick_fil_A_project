@@ -1,0 +1,450 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Anderson-University"">Anderson University</a>
+                        </h2>
+
+                        <p>
+                            1100 E 5th St
+                                <br/>
+OLT Student Center                            <br/>Anderson, IN 46012
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Avon"">Avon</a>
+                        </h2>
+
+                        <p>
+                            10791 E US Highway 36
+                            <br/>Avon, IN 46123
+                                <br/>
+(317) 271-7760                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Ball-State-University"">Ball State University</a>
+                        </h2>
+
+                        <p>
+                            1101 N Mckinley Ave
+                                <br/>
+Atrium Food Court in the Art &amp; Journalism Building                            <br/>Muncie, IN 47306
+                                <br/>
+(765) 285-0016                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Bloomington-East"">Bloomington East</a>
+                        </h2>
+
+                        <p>
+                            3020 E 3rd St
+                                <br/>
+College Mall pad                            <br/>Bloomington, IN 47401
+                                <br/>
+(812) 330-5590                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Broad-Ripple"">Broad Ripple</a>
+                        </h2>
+
+                        <p>
+                            6231 N Keystone Ave
+                            <br/>Indianapolis, IN 46220
+                                <br/>
+(317) 257-7207                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Castleton-Square"">Castleton Square</a>
+                        </h2>
+
+                        <p>
+                            6020 E 82nd St Ste 1012
+                            <br/>Indianapolis, IN 46250
+                                <br/>
+(317) 842-3288                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Circle-Centre-Mall"">Circle Centre Mall</a>
+                        </h2>
+
+                        <p>
+                            49 W Maryland St Spc Vc-10
+                            <br/>Indianapolis, IN 46204
+                                <br/>
+(317) 822-8501                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/College-Mall"">College Mall</a>
+                        </h2>
+
+                        <p>
+                            2856 E 3rd St Spc C-9
+                            <br/>Bloomington, IN 47401
+                                <br/>
+(812) 332-4877                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Columbus-National"">Columbus National</a>
+                        </h2>
+
+                        <p>
+                            1250 N National Rd
+                            <br/>Columbus, IN 47201
+                                <br/>
+(812) 375-1540                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Cross-Pointe"">Cross Pointe</a>
+                        </h2>
+
+                        <p>
+                            7101 E Indiana St
+                            <br/>Evansville, IN 47715
+                                <br/>
+(812) 471-9203                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Eastland-Mall-IN"">Eastland Mall (IN)</a>
+                        </h2>
+
+                        <p>
+                            800 N Green River Rd
+                            <br/>Evansville, IN 47715
+                                <br/>
+(812) 477-9370                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Glenbrook-Square"">Glenbrook Square</a>
+                        </h2>
+
+                        <p>
+                            4201 Coldwater Rd
+                            <br/>Fort Wayne, IN 46805
+                                <br/>
+(260) 482-5993                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Greenwood"">Greenwood</a>
+                        </h2>
+
+                        <p>
+                            155 S Marlin Dr
+                            <br/>Greenwood, IN 46142
+                                <br/>
+(317) 888-8100                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Greenwood-Park-Mall-IN"">Greenwood Park Mall (IN)</a>
+                        </h2>
+
+                        <p>
+                            1251 US Highway 31 N # C-19
+                            <br/>Greenwood, IN 46142
+                                <br/>
+(317) 888-5473                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Indiana-University-Purdue-Univ-at-Indianapolis"">Indiana University Purdue Univ at Indianapolis</a>
+                        </h2>
+
+                        <p>
+                            420 University Blvd Ste 120
+                            <br/>Indianapolis, IN 46202
+                                <br/>
+(317) 274-5157                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Indiana-Wesleyan-University"">Indiana Wesleyan University</a>
+                        </h2>
+
+                        <p>
+                            4201 S Washington St
+                                <br/>
+Barnes Student Center                            <br/>Marion, IN 46953
+                                <br/>
+(765) 677-2310                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Indianapolis-International-Airport"">Indianapolis International Airport</a>
+                        </h2>
+
+                        <p>
+                            7800 Col H Weir Cook Mem Dr
+                            <br/>Indianapolis, IN 46241
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Jefferson-Pointe"">Jefferson Pointe</a>
+                        </h2>
+
+                        <p>
+                            1725 Apple Glen Blvd
+                            <br/>Fort Wayne, IN 46804
+                                <br/>
+(260) 436-8203                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Lafayette"">Lafayette</a>
+                        </h2>
+
+                        <p>
+                            3836 South Street
+                            <br/>Lafayette, IN 47905
+                                <br/>
+(765) 446-2053                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Merrillville"">Merrillville</a>
+                        </h2>
+
+                        <p>
+                            2385 Southlake Mall
+                            <br/>Merrillville, IN 46410
+                                <br/>
+(219) 769-6810                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Mishawaka-Main-Street"">Mishawaka Main Street</a>
+                        </h2>
+
+                        <p>
+                            5517 N Main St
+                            <br/>Mishawaka, IN 46545
+                                <br/>
+(574) 277-0222                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Muncie"">Muncie</a>
+                        </h2>
+
+                        <p>
+                            511 W McGalliard Rd
+                            <br/>Muncie, IN 47303
+                                <br/>
+(765) 747-4000                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/New-Albany"">New Albany</a>
+                        </h2>
+
+                        <p>
+                            2225 State St
+                            <br/>New Albany, IN 47150
+                                <br/>
+(812) 542-6868                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Noblesville"">Noblesville</a>
+                        </h2>
+
+                        <p>
+                            16685 Mercantile Blvd
+                            <br/>Noblesville, IN 46060
+                                <br/>
+(317) 773-4100                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Plainfield"">Plainfield</a>
+                        </h2>
+
+                        <p>
+                            2687 E Main St
+                            <br/>Plainfield, IN 46168
+                                <br/>
+(317) 839-4886                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Saxony--I69"">Saxony &amp; I-69</a>
+                        </h2>
+
+                        <p>
+                            14098 Bergen Blvd
+                            <br/>Noblesville, IN 46060
+                                <br/>
+(317) 776-4060                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/South-Bend"">South Bend</a>
+                        </h2>
+
+                        <p>
+                            4555 S Michigan St
+                            <br/>South Bend, IN 46614
+                                <br/>
+(574) 968-0351                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Southport-Road"">Southport Road</a>
+                        </h2>
+
+                        <p>
+                            5240 E Southport Rd
+                            <br/>Indianapolis, IN 46237
+                                <br/>
+(317) 780-7477                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Taylor-University"">Taylor University</a>
+                        </h2>
+
+                        <p>
+                            236 W Reade Ave
+                                <br/>
+LaRita R. Boren Campus Center                            <br/>Upland, IN 46989
+                                <br/>
+(765) 998-4678                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Terre-Haute"">Terre Haute</a>
+                        </h2>
+
+                        <p>
+                            3675 S US Highway 41
+                            <br/>Terre Haute, IN 47802
+                                <br/>
+(812) 232-3675                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/The-Crossing"">The Crossing</a>
+                        </h2>
+
+                        <p>
+                            3802 E 82nd St
+                            <br/>Indianapolis, IN 46240
+                                <br/>
+(317) 578-4511                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/The-Pyramids"">The Pyramids</a>
+                        </h2>
+
+                        <p>
+                            3360 W 86th St
+                            <br/>Indianapolis, IN 46268
+                                <br/>
+(317) 871-5330                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/University-of-Evansville"">University of Evansville</a>
+                        </h2>
+
+                        <p>
+                            1800 Lincoln Ave
+                                <br/>
+John Ridgway University Center                            <br/>Evansville, IN 47722
+                                <br/>
+(812) 488-2400                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/University-of-Southern-Indiana"">University of Southern Indiana</a>
+                        </h2>
+
+                        <p>
+                            8600 University Blvd
+                            <br/>Evansville, IN 47712
+                                <br/>
+(812) 464-1859                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/University-Park-Mall"">University Park Mall</a>
+                        </h2>
+
+                        <p>
+                            6501 Grape Rd
+                                <br/>
+556 University Park Mall                            <br/>Mishawaka, IN 46545
+                                <br/>
+(574) 272-2247                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Veterans-Parkway"">Veterans Parkway</a>
+                        </h2>
+
+                        <p>
+                            1320 Veterans Pkwy
+                            <br/>Clarksville, IN 47129
+                                <br/>
+(812) 282-7573                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/IN/Westfield"">Westfield</a>
+                        </h2>
+
+                        <p>
+                            14647 Thatcher Ln
+                            <br/>Carmel, IN 46032
+                        </p>
+                    </div>
+    "

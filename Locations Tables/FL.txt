@@ -1,0 +1,2356 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Alico-Road"">Alico Road</a>
+                        </h2>
+
+                        <p>
+                            9980 Interstate Commerce Dr
+                            <br/>Fort Myers, FL 33913
+                                <br/>
+(239) 437-4800                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Altamonte-Mall"">Altamonte Mall</a>
+                        </h2>
+
+                        <p>
+                            451 Altamonte Mall
+                            <br/>Altamonte Springs, FL 32701
+                                <br/>
+(407) 834-6669                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Altamonte-Springs"">Altamonte Springs</a>
+                        </h2>
+
+                        <p>
+                            425 W State Road 436
+                            <br/>Altamonte Springs, FL 32714
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Amelia-Island"">Amelia Island</a>
+                        </h2>
+
+                        <p>
+                            464004 State Road 200
+                            <br/>Yulee, FL 32097
+                                <br/>
+(904) 491-5552                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Apalachee-Parkway"">Apalachee Parkway</a>
+                        </h2>
+
+                        <p>
+                            2308 Apalachee Pkwy
+                            <br/>Tallahassee, FL 32301
+                                <br/>
+(850) 878-7095                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Archer-Road"">Archer Road</a>
+                        </h2>
+
+                        <p>
+                            3621 Sw Archer Rd
+                            <br/>Gainesville, FL 32608
+                                <br/>
+(352) 373-9988                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Atlantic--Hodges"">Atlantic &amp; Hodges</a>
+                        </h2>
+
+                        <p>
+                            13375 Atlantic Blvd
+                            <br/>Jacksonville, FL 32225
+                                <br/>
+(904) 221-0067                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Avenues-Mall"">Avenues Mall</a>
+                        </h2>
+
+                        <p>
+                            10300 Southside Blvd Ste 310
+                            <br/>Jacksonville, FL 32256
+                                <br/>
+(904) 363-1144                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Baptist-Medical-Center-Downtown"">Baptist Medical Center-Downtown</a>
+                        </h2>
+
+                        <p>
+                            800 Prudential Dr
+                            <br/>Jacksonville, FL 32207
+                                <br/>
+(904) 202-1457                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Bayou-Boulevard"">Bayou Boulevard</a>
+                        </h2>
+
+                        <p>
+                            5020 Bayou Blvd
+                            <br/>Pensacola, FL 32503
+                                <br/>
+(850) 484-5521                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Beach--Hodges"">Beach &amp; Hodges</a>
+                        </h2>
+
+                        <p>
+                            13672 Beach Blvd
+                            <br/>Jacksonville, FL 32224
+                                <br/>
+(904) 992-2232                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Beal-Parkway"">Beal Parkway</a>
+                        </h2>
+
+                        <p>
+                            743 Beal Pkwy Nw
+                            <br/>Fort Walton Beach, FL 32547
+                                <br/>
+(850) 315-2697                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Bearss-Avenue"">Bearss Avenue</a>
+                        </h2>
+
+                        <p>
+                            3019 Cove Bend Dr
+                            <br/>Tampa, FL 33613
+                                <br/>
+(813) 866-7766                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Black-Lake--192"">Black Lake &amp; 192</a>
+                        </h2>
+
+                        <p>
+                            7891 W Irlo Bronson Memorial Hwy
+                            <br/>Kissimmee, FL 34747
+                                <br/>
+(407) 787-4001                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Boynton-Beach-Blvd"">Boynton Beach Blvd.</a>
+                        </h2>
+
+                        <p>
+                            1560 W Boynton Beach Blvd
+                            <br/>Boynton Beach, FL 33436
+                                <br/>
+(561) 752-0790                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Bradfordville"">Bradfordville</a>
+                        </h2>
+
+                        <p>
+                            3455 Bannerman Rd
+                            <br/>Tallahassee, FL 32312
+                                <br/>
+(850) 668-0138                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Brandon-South"">Brandon South</a>
+                        </h2>
+
+                        <p>
+                            2010 Bloomingdale Ave
+                            <br/>Valrico, FL 33596
+                                <br/>
+(813) 571-0569                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Broward-Mall"">Broward Mall</a>
+                        </h2>
+
+                        <p>
+                            8000 W Broward Blvd Ste 5005
+                            <br/>Plantation, FL 33388
+                                <br/>
+(954) 476-9425                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Butler-Pointe-Plaza"">Butler Pointe Plaza</a>
+                        </h2>
+
+                        <p>
+                            7147 Philips Hwy
+                            <br/>Jacksonville, FL 32256
+                                <br/>
+(904) 281-1000                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Capital-Circle"">Capital Circle</a>
+                        </h2>
+
+                        <p>
+                            3101 Capital Cir Ne
+                            <br/>Tallahassee, FL 32308
+                                <br/>
+(850) 531-0720                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Casselberry"">Casselberry</a>
+                        </h2>
+
+                        <p>
+                            80 Oxford Rd
+                            <br/>Fern Park, FL 32730
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Celebration"">Celebration</a>
+                        </h2>
+
+                        <p>
+                            6050 W Irlo Bronson Memorial Hwy
+                            <br/>Kissimmee, FL 34747
+                                <br/>
+(407) 566-9808                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Clark-Road"">Clark Road</a>
+                        </h2>
+
+                        <p>
+                            5330 Clark Rd
+                            <br/>Sarasota, FL 34233
+                                <br/>
+(941) 926-1055                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Clearwater"">Clearwater</a>
+                        </h2>
+
+                        <p>
+                            2516 Gulf To Bay Blvd
+                            <br/>Clearwater, FL 33765
+                                <br/>
+(727) 723-1992                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Clermont"">Clermont</a>
+                        </h2>
+
+                        <p>
+                            2585 E Highway 50
+                            <br/>Clermont, FL 34711
+                                <br/>
+(352) 241-7076                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Coastland-Center"">Coastland Center</a>
+                        </h2>
+
+                        <p>
+                            1874 Tamiami Trl N Spc Fc-7
+                            <br/>Naples, FL 34102
+                                <br/>
+(239) 263-2678                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Colonial-Blvd"">Colonial Blvd.</a>
+                        </h2>
+
+                        <p>
+                            4752 Colonial Blvd
+                            <br/>Fort Myers, FL 33966
+                                <br/>
+(239) 936-6317                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Colonial-Plaza-Market-Center"">Colonial Plaza Market Center</a>
+                        </h2>
+
+                        <p>
+                            2448 E Colonial Dr
+                            <br/>Orlando, FL 32803
+                                <br/>
+(407) 896-0350                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Coral-Springs"">Coral Springs</a>
+                        </h2>
+
+                        <p>
+                            1341 N University Dr
+                            <br/>Coral Springs, FL 33071
+                                <br/>
+(954) 753-0779                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Cortez-Plaza"">Cortez Plaza</a>
+                        </h2>
+
+                        <p>
+                            4573 14th St W
+                            <br/>Bradenton, FL 34207
+                                <br/>
+(941) 727-7313                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Creekwood"">Creekwood</a>
+                        </h2>
+
+                        <p>
+                            5206 73rd Ln E
+                            <br/>Bradenton, FL 34203
+                                <br/>
+(941) 751-9993                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Cypress-Creek-Town-Center"">Cypress Creek Town Center</a>
+                        </h2>
+
+                        <p>
+                            2349 Sun Vista Dr
+                            <br/>Lutz, FL 33559
+                                <br/>
+(813) 909-0953                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Cypress-Lake"">Cypress Lake</a>
+                        </h2>
+
+                        <p>
+                            13610 S Tamiami Trl
+                            <br/>Fort Myers, FL 33912
+                                <br/>
+(239) 433-9030                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Dadeland-Mall"">Dadeland Mall</a>
+                        </h2>
+
+                        <p>
+                            7535 N Kendall Dr Ste 1440A
+                            <br/>Miami, FL 33156
+                                <br/>
+(305) 661-1173                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Davie-North"">Davie North</a>
+                        </h2>
+
+                        <p>
+                            1900 S University Dr
+                            <br/>Davie, FL 33324
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Deland"">Deland</a>
+                        </h2>
+
+                        <p>
+                            2295 South Woodland Boulevard
+                            <br/>Deland, FL 32720
+                                <br/>
+(386) 738-0062                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Delray-Beach"">Delray Beach</a>
+                        </h2>
+
+                        <p>
+                            1800 S Federal Hwy
+                                <br/>
+SWC of Linton Blvd &amp; Federal Hwy                            <br/>Delray Beach, FL 33483
+                                <br/>
+(561) 265-0321                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Destin"">Destin</a>
+                        </h2>
+
+                        <p>
+                            1063 Highway 98 E
+                            <br/>Destin, FL 32541
+                                <br/>
+(850) 654-5534                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Doral"">Doral</a>
+                        </h2>
+
+                        <p>
+                            3995 Nw 107th Ave
+                            <br/>Doral, FL 33178
+                                <br/>
+(305) 593-7881                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/E-BrandonValrico"">E. Brandon/Valrico</a>
+                        </h2>
+
+                        <p>
+                            1504 E Brandon Blvd
+                            <br/>Brandon, FL 33511
+                                <br/>
+(813) 661-2300                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Eagle-Harbor"">Eagle Harbor</a>
+                        </h2>
+
+                        <p>
+                            1541 County Road 220
+                            <br/>Fleming Island, FL 32003
+                                <br/>
+(904) 264-3644                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Edgewater"">Edgewater</a>
+                        </h2>
+
+                        <p>
+                            10 Indian River Boulevard
+                            <br/>Edgewater, FL 32141
+                                <br/>
+(386) 478-1490                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Embry-Riddle-Aeronautical-University"">Embry Riddle Aeronautical University</a>
+                        </h2>
+
+                        <p>
+                            600 S Clyde Morris Blvd
+                            <br/>Daytona Beach, FL 32114
+                                <br/>
+(386) 226-7351                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Enterprise-Road-Drive-Thru-Only"">Enterprise Road Drive-Thru Only</a>
+                        </h2>
+
+                        <p>
+                            26145 US Highway 19 N
+                            <br/>Clearwater, FL 33763
+                                <br/>
+(727) 791-1808                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Estero"">Estero</a>
+                        </h2>
+
+                        <p>
+                            21900 S Tamiami Trl
+                            <br/>Estero, FL 33928
+                                <br/>
+(239) 498-8700                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Feathersound"">Feathersound</a>
+                        </h2>
+
+                        <p>
+                            3423 Ulmerton Rd
+                            <br/>Clearwater, FL 33762
+                                <br/>
+(727) 572-7775                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Flagler-College"">Flagler College</a>
+                        </h2>
+
+                        <p>
+                            50 Sevilla St
+                                <br/>
+Ringhaver Student Center                            <br/>Saint Augustine, FL 32084
+                                <br/>
+(904) 829-5861                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Flagler-Park"">Flagler Park</a>
+                        </h2>
+
+                        <p>
+                            9301 W Flagler St
+                            <br/>Miami, FL 33174
+                                <br/>
+(305) 553-5497                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Florida-AM-University"">Florida A&amp;M University</a>
+                        </h2>
+
+                        <p>
+                            1510 Wahnish Way
+                                <br/>
+Rattlers&#39; Nest                            <br/>Tallahassee, FL 32307
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Florida-Atlantic-University"">Florida Atlantic University</a>
+                        </h2>
+
+                        <p>
+                            777 Glades Rd
+                            <br/>Boca Raton, FL 33431
+                                <br/>
+(561) 297-4727                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Florida-Gulf-Coast-University"">Florida Gulf Coast University</a>
+                        </h2>
+
+                        <p>
+                            10501 Fgcu Blvd S
+                                <br/>
+Student Union Building                            <br/>Fort Myers, FL 33965
+                                <br/>
+(230) 590-1293                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Florida-International-University"">Florida International University</a>
+                        </h2>
+
+                        <p>
+                            885 Sw 109th Ave
+                                <br/>
+PG-5/Retail                            <br/>Miami, FL 33199
+                                <br/>
+(305) 348-7797                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Florida-State-University"">Florida State University</a>
+                        </h2>
+
+                        <p>
+                            127 Honors Way
+                                <br/>
+Johnson Annex Building                            <br/>Tallahassee, FL 32306
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Fort-Lauderdale"">Fort Lauderdale</a>
+                        </h2>
+
+                        <p>
+                            2650 N Federal Hwy
+                            <br/>Fort Lauderdale, FL 33306
+                                <br/>
+(954) 565-3861                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Four-Corners"">Four Corners</a>
+                        </h2>
+
+                        <p>
+                            644 US Highway 27
+                            <br/>Clermont, FL 34714
+                                <br/>
+(352) 243-2909                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Fourth-Street-North"">Fourth Street North</a>
+                        </h2>
+
+                        <p>
+                            4241 4th St N
+                            <br/>Saint Petersburg, FL 33703
+                                <br/>
+(727) 502-9402                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Fruitville-Road"">Fruitville Road</a>
+                        </h2>
+
+                        <p>
+                            5384 Fruitville Rd
+                            <br/>Sarasota, FL 34232
+                                <br/>
+(941) 342-6168                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Gandy-Blvd"">Gandy Blvd</a>
+                        </h2>
+
+                        <p>
+                            3678 W Gandy Blvd
+                            <br/>Tampa, FL 33611
+                                <br/>
+(813) 831-4203                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Governors-Square-FL"">Governors Square (FL)</a>
+                        </h2>
+
+                        <p>
+                            1500 Apalachee Pkwy Ste 1040
+                            <br/>Tallahassee, FL 32301
+                                <br/>
+(850) 878-1578                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Gulf-Breeze"">Gulf Breeze</a>
+                        </h2>
+
+                        <p>
+                            310 Gulf Breeze Pkwy
+                            <br/>Gulf Breeze, FL 32561
+                                <br/>
+(850) 932-5400                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Gulf-View-Square"">Gulf View Square</a>
+                        </h2>
+
+                        <p>
+                            9409 Us Highway 19 Ste 617
+                            <br/>Port Richey, FL 34668
+                                <br/>
+(727) 847-0785                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Hillsboro-and-Powerline"">Hillsboro and Powerline</a>
+                        </h2>
+
+                        <p>
+                            3648 W Hillsboro Blvd
+                            <br/>Deerfield Beach, FL 33442
+                                <br/>
+(954) 570-0404                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Hunt-Club"">Hunt Club</a>
+                        </h2>
+
+                        <p>
+                            3050 E Semoran Blvd
+                            <br/>Apopka, FL 32703
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/I4--Hwy-27"">I-4 &amp; Hwy 27</a>
+                        </h2>
+
+                        <p>
+                            43568 Highway 27
+                            <br/>Davenport, FL 33837
+                                <br/>
+(863) 420-6700                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Indian-River-Mall"">Indian River Mall</a>
+                        </h2>
+
+                        <p>
+                            6200 20th St Ste 476
+                            <br/>Vero Beach, FL 32966
+                                <br/>
+(772) 978-4343                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Inside-Cordova-Mall"">Inside Cordova Mall</a>
+                        </h2>
+
+                        <p>
+                            5100 N 9th Ave Rm J-928
+                            <br/>Pensacola, FL 32504
+                                <br/>
+(850) 477-7979                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/International-Plaza-Mall"">International Plaza Mall</a>
+                        </h2>
+
+                        <p>
+                            2223 N West Shore Blvd Ste Fc202
+                            <br/>Tampa, FL 33607
+                                <br/>
+(813) 354-8100                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/International-Speedway"">International Speedway</a>
+                        </h2>
+
+                        <p>
+                            100 N Williamson Blvd
+                            <br/>Daytona Beach, FL 32114
+                                <br/>
+(386) 252-8232                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Jacksonville-University"">Jacksonville University</a>
+                        </h2>
+
+                        <p>
+                            2800 University Blvd N
+                                <br/>
+Davis Student Commons                            <br/>Jacksonville, FL 32211
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Kirkman-and-Conroy-Road"">Kirkman and Conroy Road</a>
+                        </h2>
+
+                        <p>
+                            4752 S Kirkman Rd
+                            <br/>Orlando, FL 32811
+                                <br/>
+(407) 295-9034                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Kissimmee"">Kissimmee</a>
+                        </h2>
+
+                        <p>
+                            4450 W Vine St
+                            <br/>Kissimmee, FL 34746
+                                <br/>
+(407) 787-3332                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Lake-Brandon-Village"">Lake Brandon Village</a>
+                        </h2>
+
+                        <p>
+                            11325 Causeway Blvd
+                            <br/>Brandon, FL 33511
+                                <br/>
+(813) 655-1237                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Lake-Buena-Vista"">Lake Buena Vista</a>
+                        </h2>
+
+                        <p>
+                            13448 S Apopka Vineland Rd
+                            <br/>Orlando, FL 32821
+                                <br/>
+(407) 827-7032                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Lake-City"">Lake City</a>
+                        </h2>
+
+                        <p>
+                            3200 W US Highway 90
+                            <br/>Lake City, FL 32055
+                                <br/>
+(386) 438-5549                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Lake-Mary-Blvd"">Lake Mary Blvd.</a>
+                        </h2>
+
+                        <p>
+                            4420 W Lake Mary Blvd
+                            <br/>Lake Mary, FL 32746
+                                <br/>
+(407) 333-8875                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Lake-Worth-South"">Lake Worth South</a>
+                        </h2>
+
+                        <p>
+                            6275 Lantana Rd
+                                <br/>
+Lee Square Shopping Center                            <br/>Greenacres, FL 33463
+                                <br/>
+(561) 296-4689                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Lakeland-Square"">Lakeland Square</a>
+                        </h2>
+
+                        <p>
+                            3800 Us Highway 98 N Ste 692
+                            <br/>Lakeland, FL 33809
+                                <br/>
+(863) 859-4444                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Largo"">Largo</a>
+                        </h2>
+
+                        <p>
+                            10075 Ulmerton Rd
+                            <br/>Largo, FL 33771
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Lauderhill"">Lauderhill</a>
+                        </h2>
+
+                        <p>
+                            8190 W Commercial Blvd
+                            <br/>Tamarac, FL 33351
+                                <br/>
+(954) 741-9395                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Lee-Vista"">Lee Vista</a>
+                        </h2>
+
+                        <p>
+                            6350 S Semoran Blvd
+                            <br/>Orlando, FL 32822
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Maitland-Boulevard"">Maitland Boulevard</a>
+                        </h2>
+
+                        <p>
+                            8673 Summit Centre Way
+                            <br/>Orlando, FL 32810
+                                <br/>
+(407) 475-0522                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Malabar-Road"">Malabar Road</a>
+                        </h2>
+
+                        <p>
+                            1130 Malabar Rd SE
+                            <br/>Palm Bay, FL 32907
+                                <br/>
+(321) 499-4630                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Mandarin"">Mandarin</a>
+                        </h2>
+
+                        <p>
+                            3280 Oak Bluff Ln
+                            <br/>Jacksonville, FL 32257
+                                <br/>
+(904) 292-4668                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Marsh-Landing-Pkwy"">Marsh Landing Pkwy</a>
+                        </h2>
+
+                        <p>
+                            590 Marsh Landing Pkwy
+                            <br/>Jacksonville Beach, FL 32250
+                                <br/>
+(904) 280-0255                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Melbourne-Square"">Melbourne Square</a>
+                        </h2>
+
+                        <p>
+                            1700 W New Haven Ave Ste 407
+                            <br/>Melbourne, FL 32904
+                                <br/>
+(321) 984-0637                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Merritt-Square-Mall"">Merritt Square Mall</a>
+                        </h2>
+
+                        <p>
+                            777 E Merritt Island Cswy Ste 164
+                                <br/>
+Suite #164                            <br/>Merritt Island, FL 32952
+                                <br/>
+(321) 454-3974                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Miami-Lakes"">Miami Lakes</a>
+                        </h2>
+
+                        <p>
+                            16100 NW 57th Ave
+                            <br/>Miami Lakes, FL 33014
+                                <br/>
+(305) 512-4501                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Middleburg"">Middleburg</a>
+                        </h2>
+
+                        <p>
+                            1710 Blanding Blvd
+                            <br/>Middleburg, FL 32068
+                                <br/>
+(904) 291-8220                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Mitchell-Ranch-Plaza"">Mitchell Ranch Plaza</a>
+                        </h2>
+
+                        <p>
+                            9040 State Road 54
+                                <br/>
+.                            <br/>Trinity, FL 34655
+                                <br/>
+(727) 834-8880                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Mt-Dora"">Mt. Dora</a>
+                        </h2>
+
+                        <p>
+                            17240 Us Highway 441
+                            <br/>Mount Dora, FL 32757
+                                <br/>
+(352) 385-0046                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Naples-Center"">Naples Center</a>
+                        </h2>
+
+                        <p>
+                            5825 Airport Pulling Rd N
+                            <br/>Naples, FL 34109
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Navy-Blvd"">Navy Blvd</a>
+                        </h2>
+
+                        <p>
+                            510 N Navy Blvd
+                            <br/>Pensacola, FL 32507
+                                <br/>
+(850) 455-6100                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/New-Tampa-at-I-75"">New Tampa at I-75</a>
+                        </h2>
+
+                        <p>
+                            17513 Bruce B Downs Blvd
+                            <br/>Tampa, FL 33647
+                                <br/>
+(813) 977-2659                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Niceville"">Niceville</a>
+                        </h2>
+
+                        <p>
+                            1348 John Sims Pkwy E
+                            <br/>Niceville, FL 32578
+                                <br/>
+(850) 279-6070                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Nine-Mile-Road"">Nine Mile Road</a>
+                        </h2>
+
+                        <p>
+                            1757 E Nine Mile Rd
+                            <br/>Pensacola, FL 32514
+                                <br/>
+(850) 484-4885                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/North-Dale-Mabry"">North Dale Mabry</a>
+                        </h2>
+
+                        <p>
+                            15801 N Dale Mabry Hwy
+                            <br/>Carrollwood, FL 33618
+                                <br/>
+(813) 908-0787                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/North-Lakeland"">North Lakeland</a>
+                        </h2>
+
+                        <p>
+                            4132 Us Highway 98 N
+                            <br/>Lakeland, FL 33809
+                                <br/>
+(863) 940-2828                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/North-Monroe-Street"">North Monroe Street</a>
+                        </h2>
+
+                        <p>
+                            2136 N Monroe St
+                            <br/>Tallahassee, FL 32303
+                                <br/>
+(850) 385-0599                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Northlake-Boulevard"">Northlake Boulevard</a>
+                        </h2>
+
+                        <p>
+                            1262 Northlake Blvd
+                            <br/>Lake Park, FL 33403
+                                <br/>
+(561) 842-5805                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Oakleaf-Town-Center"">Oakleaf Town Center</a>
+                        </h2>
+
+                        <p>
+                            9630 Applecross Rd
+                            <br/>Jacksonville, FL 32222
+                                <br/>
+(904) 908-4488                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Oaks-Mall"">Oaks Mall</a>
+                        </h2>
+
+                        <p>
+                            6419 W Newberry Rd Ste G8
+                            <br/>Gainesville, FL 32605
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Ocala"">Ocala</a>
+                        </h2>
+
+                        <p>
+                            3445 SW College Rd
+                            <br/>Ocala, FL 34474
+                                <br/>
+(352) 854-2866                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Ocoee"">Ocoee</a>
+                        </h2>
+
+                        <p>
+                            10620 W Colonial Dr
+                            <br/>Ocoee, FL 34761
+                                <br/>
+(407) 654-0904                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Okeechobee-and-Turnpike"">Okeechobee and Turnpike</a>
+                        </h2>
+
+                        <p>
+                            6060 Okeechobee Blvd
+                            <br/>West Palm Beach, FL 33417
+                                <br/>
+(561) 242-9172                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Oldsmar"">Oldsmar</a>
+                        </h2>
+
+                        <p>
+                            3740 Tampa Rd
+                            <br/>Oldsmar, FL 34677
+                                <br/>
+(813) 925-0117                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Orange-Avenue"">Orange Avenue</a>
+                        </h2>
+
+                        <p>
+                            2885 S Orange Ave
+                            <br/>Orlando, FL 32806
+                                <br/>
+(407) 423-4933                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Orange-Park-Mall"">Orange Park Mall</a>
+                        </h2>
+
+                        <p>
+                            1910 Wells Rd
+                            <br/>Orange Park, FL 32073
+                                <br/>
+(904) 269-2210                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Orlando-Ave-at-Fairbanks"">Orlando Ave. at Fairbanks</a>
+                        </h2>
+
+                        <p>
+                            700 S Orlando Ave
+                            <br/>Winter Park, FL 32789
+                                <br/>
+(407) 622-2445                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Orlando-International-Airport"">Orlando International Airport</a>
+                        </h2>
+
+                        <p>
+                            9333 Airport Blvd
+                            <br/>Orlando, FL 32827
+                                <br/>
+(407) 851-1334                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Orlando-Square"">Orlando Square</a>
+                        </h2>
+
+                        <p>
+                            1800 Sand Lake Rd
+                            <br/>Orlando, FL 32809
+                                <br/>
+(407) 856-0106                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Ormond-Towne-Square"">Ormond Towne Square</a>
+                        </h2>
+
+                        <p>
+                            1464 W Granada Blvd
+                            <br/>Ormond Beach, FL 32174
+                                <br/>
+(386) 673-6424                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Oviedo-Mall"">Oviedo Mall</a>
+                        </h2>
+
+                        <p>
+                            1610 Oviedo Mall Blvd
+                            <br/>Oviedo, FL 32765
+                                <br/>
+(407) 977-5698                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Paddock-Mall"">Paddock Mall</a>
+                        </h2>
+
+                        <p>
+                            3100 SW College Rd
+                                <br/>
+210 Paddock Mall                            <br/>Ocala, FL 34474
+                                <br/>
+(352) 237-1576                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Palm-Bay-Road"">Palm Bay Road</a>
+                        </h2>
+
+                        <p>
+                            835 Palm Bay Rd Ne
+                            <br/>Melbourne, FL 32904
+                                <br/>
+(321) 733-7110                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Palm-Beach-Atlantic-University"">Palm Beach Atlantic University</a>
+                        </h2>
+
+                        <p>
+                            1100 N Dixie Hwy
+                            <br/>West Palm Beach, FL 33401
+                                <br/>
+(561) 803-2348                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Palm-Beach-Lakes-Blvd"">Palm Beach Lakes Blvd.</a>
+                        </h2>
+
+                        <p>
+                            2070 Palm Beach Lakes Blvd
+                            <br/>West Palm Beach, FL 33409
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Palm-Coast"">Palm Coast</a>
+                        </h2>
+
+                        <p>
+                            1000 Palm Coast Pkwy NW
+                            <br/>Palm Coast, FL 32137
+                                <br/>
+(386) 445-0399                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Palm-Harbor"">Palm Harbor</a>
+                        </h2>
+
+                        <p>
+                            32800 US Highway 19 N
+                            <br/>Palm Harbor, FL 34684
+                                <br/>
+(727) 786-8545                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Panama-City"">Panama City</a>
+                        </h2>
+
+                        <p>
+                            661 N Highway 231
+                            <br/>Panama City, FL 32405
+                                <br/>
+(850) 763-1600                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Panama-City-Beach"">Panama City Beach</a>
+                        </h2>
+
+                        <p>
+                            11428 Panama City Beach Pkwy
+                            <br/>Panama City, FL 32407
+                                <br/>
+(850) 234-9540                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Panama-City-Mall"">Panama City Mall</a>
+                        </h2>
+
+                        <p>
+                            2238 N Cove Blvd
+                            <br/>Panama City, FL 32405
+                                <br/>
+(850) 763-3554                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Park-Place"">Park Place</a>
+                        </h2>
+
+                        <p>
+                            7020 Us Highway 19 N
+                            <br/>Pinellas Park, FL 33781
+                                <br/>
+(727) 525-7171                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Pembroke-Lakes-Mall"">Pembroke Lakes Mall</a>
+                        </h2>
+
+                        <p>
+                            11401 Pines Blvd Ste 466
+                            <br/>Pembroke Pines, FL 33026
+                                <br/>
+(954) 430-5993                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Pensacola-International-Airport"">Pensacola International Airport</a>
+                        </h2>
+
+                        <p>
+                            2430 Airport Blvd
+                            <br/>Pensacola, FL 32504
+                                <br/>
+(850) 434-6033                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Pine-Island-Road"">Pine Island Road</a>
+                        </h2>
+
+                        <p>
+                            1790 Ne Pine Island Rd
+                            <br/>Cape Coral, FL 33909
+                                <br/>
+(239) 242-8748                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Pines-and-Flamingo"">Pines and Flamingo</a>
+                        </h2>
+
+                        <p>
+                            12203 Pines Blvd
+                            <br/>Pembroke Pines, FL 33026
+                                <br/>
+(954) 392-9766                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Pompano-Beach"">Pompano Beach</a>
+                        </h2>
+
+                        <p>
+                            2250 N Federal Hwy
+                            <br/>Pompano Beach, FL 33062
+                                <br/>
+(954) 943-5855                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Port-Charlotte"">Port Charlotte</a>
+                        </h2>
+
+                        <p>
+                            1814 Tamiami Trl
+                            <br/>Port Charlotte, FL 33948
+                                <br/>
+(941) 766-6106                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Port-Orange-Gateway-Center"">Port Orange Gateway Center</a>
+                        </h2>
+
+                        <p>
+                            1761 Dunlawton Ave
+                            <br/>Port Orange, FL 32127
+                                <br/>
+(386) 767-3377                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Regency-Park"">Regency Park</a>
+                        </h2>
+
+                        <p>
+                            9398 Atlantic Blvd
+                            <br/>Jacksonville, FL 32225
+                                <br/>
+(904) 724-4828                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/River-City-Marketplace"">River City Marketplace</a>
+                        </h2>
+
+                        <p>
+                            14020 Lunar Dr
+                            <br/>Jacksonville, FL 32218
+                                <br/>
+(904) 757-1430                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Roosevelt-Square"">Roosevelt Square</a>
+                        </h2>
+
+                        <p>
+                            4495 Roosevelt Blvd Ste 601
+                            <br/>Jacksonville, FL 32210
+                                <br/>
+(904) 387-1322                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Royal-Palm-Beach"">Royal Palm Beach</a>
+                        </h2>
+
+                        <p>
+                            206 S State Road 7
+                                <br/>
+Western Plaza - Home Depot Shopping Center                            <br/>West Palm Beach, FL 33414
+                                <br/>
+(561) 721-8650                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/S-Orange-Blossom-Trl"">S. Orange Blossom Trl.</a>
+                        </h2>
+
+                        <p>
+                            7415 S Orange Blossom Trl
+                            <br/>Orlando, FL 32809
+                                <br/>
+(407) 856-0106                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Sand-Lake-Road"">Sand Lake Road</a>
+                        </h2>
+
+                        <p>
+                            7333 W Sand Lake Rd
+                            <br/>Orlando, FL 32819
+                                <br/>
+(407) 370-9295                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Sanford-FL"">Sanford (FL)</a>
+                        </h2>
+
+                        <p>
+                            4590 W State Road 46
+                            <br/>Sanford, FL 32771
+                                <br/>
+(407) 878-6385                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Sawgrass-Square"">Sawgrass Square</a>
+                        </h2>
+
+                        <p>
+                            12600 W Sunrise Blvd
+                            <br/>Sunrise, FL 33323
+                                <br/>
+(954) 846-1870                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Saxon-Boulevard"">Saxon Boulevard</a>
+                        </h2>
+
+                        <p>
+                            1141 Saxon Blvd
+                            <br/>Orange City, FL 32763
+                                <br/>
+(386) 774-8625                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Seminole-Plaza"">Seminole Plaza</a>
+                        </h2>
+
+                        <p>
+                            10790 Park Blvd
+                            <br/>Seminole, FL 33772
+                                <br/>
+(727) 398-0777                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Seminole-Towne-Center"">Seminole Towne Center</a>
+                        </h2>
+
+                        <p>
+                            260 Towne Center Cir
+                            <br/>Sanford, FL 32771
+                                <br/>
+(407) 328-0035                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Shands-Hospital-Sun-TerraceGainesville"">Shands Hospital (Sun Terrace)-Gainesville</a>
+                        </h2>
+
+                        <p>
+                            114 Recreational Dining Ctr
+                                <br/>
+Gator Dining Service                            <br/>Gainesville, FL 32611
+                                <br/>
+(352) 392-1021                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/South-Dale-Mabry"">South Dale Mabry</a>
+                        </h2>
+
+                        <p>
+                            609 S Dale Mabry Hwy
+                            <br/>Tampa, FL 33609
+                                <br/>
+(813) 873-1938                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/South-Florida-Avenue"">South Florida Avenue</a>
+                        </h2>
+
+                        <p>
+                            4625 S Florida Ave
+                            <br/>Lakeland, FL 33813
+                                <br/>
+(863) 607-9300                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/South-Walton"">South Walton</a>
+                        </h2>
+
+                        <p>
+                            52 Scenic Gulf Dr
+                            <br/>Miramar Beach, FL 32550
+                                <br/>
+(850) 654-0064                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Southchase-Plaza"">Southchase Plaza</a>
+                        </h2>
+
+                        <p>
+                            13085 S Orange Blossom Trl
+                            <br/>Orlando, FL 32837
+                                <br/>
+(407) 251-4612                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Southeastern-University"">Southeastern University</a>
+                        </h2>
+
+                        <p>
+                            1000 Longfellow Blvd
+                                <br/>
+Pansler Alumni Student Center                            <br/>Lakeland, FL 33801
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Southside-Blvd-at-the-Avenues"">Southside Blvd at the Avenues</a>
+                        </h2>
+
+                        <p>
+                            9980 Southside Blvd
+                            <br/>Jacksonville, FL 32256
+                                <br/>
+(904) 519-0505                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Spring-Hill"">Spring Hill</a>
+                        </h2>
+
+                        <p>
+                            13143 Cortez Blvd
+                            <br/>Brooksville, FL 34613
+                                <br/>
+(352) 596-2826                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/St-Augustine"">St. Augustine</a>
+                        </h2>
+
+                        <p>
+                            1752 Us Highway 1 S
+                            <br/>Saint Augustine, FL 32084
+                                <br/>
+(904) 810-2201                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/St-Cloud"">St. Cloud</a>
+                        </h2>
+
+                        <p>
+                            4360 13th St
+                            <br/>Saint Cloud, FL 34769
+                                <br/>
+(407) 891-6985                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/St-Johns-Town-Center"">St. Johns Town Center</a>
+                        </h2>
+
+                        <p>
+                            4625 Town Center Pkwy
+                            <br/>Jacksonville, FL 32246
+                                <br/>
+(904) 928-9498                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/St-Pete-Beach"">St. Pete Beach</a>
+                        </h2>
+
+                        <p>
+                            4623 Gulf Blvd
+                            <br/>Saint Petersburg, FL 33706
+                                <br/>
+(727) 367-7038                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/St-Vincents-Medical-Center"">St. Vincent&#39;s Medical Center</a>
+                        </h2>
+
+                        <p>
+                            1 Shircliff Way
+                                <br/>
+New Hospital Cafe                            <br/>Jacksonville, FL 32204
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Stanford-Station-Shopping-Center"">Stanford Station Shopping Center</a>
+                        </h2>
+
+                        <p>
+                            900 W 23rd St
+                            <br/>Panama City, FL 32405
+                                <br/>
+(850) 763-2653                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Stuart"">Stuart</a>
+                        </h2>
+
+                        <p>
+                            2930 Se Federal Hwy
+                            <br/>Stuart, FL 34994
+                                <br/>
+(772) 223-5442                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Tampa-International-Airport-Airside-A"">Tampa International Airport-Airside A</a>
+                        </h2>
+
+                        <p>
+                            4100 George J Bean Pkwy
+                                <br/>
+Airside A                            <br/>Tampa, FL 33607
+                                <br/>
+(813) 387-9845                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Tampa-International-Airport-Main-Terminal"">Tampa International Airport-Main Terminal</a>
+                        </h2>
+
+                        <p>
+                            4100 George J Bean Pkwy
+                                <br/>
+Main Terminal                            <br/>Tampa, FL 33607
+                                <br/>
+(813) 387-9866                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Tampa-Stadium"">Tampa Stadium</a>
+                        </h2>
+
+                        <p>
+                            2551 N Dale Mabry Hwy
+                            <br/>Tampa, FL 33607
+                                <br/>
+(813) 450-1832                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Temple-Terrace"">Temple Terrace</a>
+                        </h2>
+
+                        <p>
+                            5302 E Fowler Ave
+                            <br/>Temple Terrace, FL 33617
+                                <br/>
+(813) 914-0295                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/The-Fountains-of-Miramar"">The Fountains of Miramar</a>
+                        </h2>
+
+                        <p>
+                            3211 Sw 160th Ave
+                            <br/>Miramar, FL 33027
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/The-Gardens"">The Gardens</a>
+                        </h2>
+
+                        <p>
+                            3101 Pga Blvd Ste L209
+                            <br/>Palm Beach Gardens, FL 33410
+                                <br/>
+(561) 624-0144                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/The-Loop"">The Loop</a>
+                        </h2>
+
+                        <p>
+                            3286 N John Young Pkwy
+                            <br/>Kissimmee, FL 34741
+                                <br/>
+(407) 935-0102                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/The-Mall-at-Millenia"">The Mall at Millenia</a>
+                        </h2>
+
+                        <p>
+                            4200 Conroy Rd Ste 245
+                            <br/>Orlando, FL 32839
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/The-Mall-at-Wellington-Green"">The Mall at Wellington Green</a>
+                        </h2>
+
+                        <p>
+                            10300 W Forest Hill Blvd Ste Fc108
+                            <br/>Wellington, FL 33414
+                                <br/>
+(561) 333-4242                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/The-Ridge"">The Ridge</a>
+                        </h2>
+
+                        <p>
+                            5023 Highway 90
+                            <br/>Pace, FL 32571
+                                <br/>
+(850) 994-9095                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/The-Standard-In-Line"">The Standard In-Line</a>
+                        </h2>
+
+                        <p>
+                            1340 W University Ave
+                                <br/>
+Suite 10                            <br/>Gainesville, FL 32603
+                                <br/>
+(352) 376-4000                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/The-Villages"">The Villages</a>
+                        </h2>
+
+                        <p>
+                            730 N Us Highway 441
+                            <br/>The Villages, FL 32159
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Tinseltown"">Tinseltown</a>
+                        </h2>
+
+                        <p>
+                            4461 Southside Blvd
+                            <br/>Jacksonville, FL 32216
+                                <br/>
+(904) 646-9333                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Town-Center-at-Boca-Raton"">Town Center at Boca Raton</a>
+                        </h2>
+
+                        <p>
+                            6000 Glades Rd Ste 1166c
+                            <br/>Boca Raton, FL 33431
+                                <br/>
+(561) 347-1622                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Treasure-Coast-Square"">Treasure Coast Square</a>
+                        </h2>
+
+                        <p>
+                            3278 Nw Federal Hwy
+                            <br/>Jensen Beach, FL 34957
+                                <br/>
+(772) 692-2322                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Tuskawilla-Road"">Tuskawilla Road</a>
+                        </h2>
+
+                        <p>
+                            1455 Tuskawilla Rd
+                            <br/>Winter Springs, FL 32708
+                                <br/>
+(407) 696-8333                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Tyndall-Parkway"">Tyndall Parkway</a>
+                        </h2>
+
+                        <p>
+                            401 N Tyndall Pkwy
+                            <br/>Panama City, FL 32404
+                                <br/>
+(850) 872-1512                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Tyrone-Boulevard"">Tyrone Boulevard</a>
+                        </h2>
+
+                        <p>
+                            2471 Tyrone Blvd N
+                            <br/>Saint Petersburg, FL 33710
+                                <br/>
+(727) 343-8645                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Tyrone-Square"">Tyrone Square</a>
+                        </h2>
+
+                        <p>
+                            2257 Tyrone Sq
+                            <br/>Saint Petersburg, FL 33710
+                                <br/>
+(727) 381-2066                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/University-at-Forsyth"">University at Forsyth</a>
+                        </h2>
+
+                        <p>
+                            3391 University Blvd
+                            <br/>Winter Park, FL 32792
+                                <br/>
+(407) 673-9661                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/University-at-Rouse"">University at Rouse</a>
+                        </h2>
+
+                        <p>
+                            11350 University Blvd
+                            <br/>Orlando, FL 32817
+                                <br/>
+(407) 737-0002                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/University-of-Central-Florida"">University of Central Florida</a>
+                        </h2>
+
+                        <p>
+                            4000 Central Florida Blvd
+                                <br/>
+SRC109                            <br/>Orlando, FL 32816
+                                <br/>
+(407) 823-2238                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/University-of-Florida"">University of Florida</a>
+                        </h2>
+
+                        <p>
+                            114 Recreational Dining Ctr
+                                <br/>
+Gator Dining Service                            <br/>Gainesville, FL 32611
+                                <br/>
+(352) 392-9411                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/University-of-Florida-Broward-Complex"">University of Florida-Broward Complex</a>
+                        </h2>
+
+                        <p>
+                            60 Inner Rd
+                                <br/>
+Broward Dining Complex                            <br/>Gainesville, FL 32611
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/University-of-North-Florida"">University of North Florida</a>
+                        </h2>
+
+                        <p>
+                            1 U N F Dr
+                            <br/>Jacksonville, FL 32224
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/University-of-South-Florida"">University of South Florida</a>
+                        </h2>
+
+                        <p>
+                            4202 E Fowler Ave
+                                <br/>
+CTR 152                            <br/>Tampa, FL 33620
+                                <br/>
+(813) 974-5021                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/University-of-Tampa"">University of Tampa</a>
+                        </h2>
+
+                        <p>
+                            401 W Kennedy Blvd
+                            <br/>Tampa, FL 33606
+                                <br/>
+(813) 258-7257                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Vero-Beach"">Vero Beach</a>
+                        </h2>
+
+                        <p>
+                            6020 Elon Lane
+                            <br/>Vero Beach, FL 32966
+                                <br/>
+(772) 567-0222                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Viera"">Viera</a>
+                        </h2>
+
+                        <p>
+                            8300 N Wickham Rd
+                            <br/>Melbourne, FL 32940
+                                <br/>
+(321) 751-0801                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Waterford-Lakes-Town-Center"">Waterford Lakes Town Center</a>
+                        </h2>
+
+                        <p>
+                            633 N Alafaya Trl
+                            <br/>Orlando, FL 32828
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Waters-Ave"">Waters Ave.</a>
+                        </h2>
+
+                        <p>
+                            6299 W Waters Ave
+                            <br/>Tampa, FL 33634
+                                <br/>
+(813) 880-0808                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Wells-Road"">Wells Road</a>
+                        </h2>
+
+                        <p>
+                            1925 Wells Rd
+                            <br/>Orange Park, FL 32073
+                                <br/>
+(904) 541-1111                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/West-Tennessee-Street"">West Tennessee Street</a>
+                        </h2>
+
+                        <p>
+                            1775 W Tennessee St
+                            <br/>Tallahassee, FL 32304
+                                <br/>
+(850) 224-2112                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Westfield-Brandon"">Westfield Brandon</a>
+                        </h2>
+
+                        <p>
+                            519 Brandon Town Center Mall
+                            <br/>Brandon, FL 33511
+                                <br/>
+(813) 654-6769                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Westfield-Citrus-Park"">Westfield Citrus Park</a>
+                        </h2>
+
+                        <p>
+                            8019 Citrus Park Town Center Mall
+                            <br/>Tampa, FL 33625
+                                <br/>
+(813) 926-4888                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Westfield-Countryside-Mall"">Westfield Countryside Mall</a>
+                        </h2>
+
+                        <p>
+                            27001 Us Highway 19 N Ste 2089
+                            <br/>Clearwater, FL 33761
+                                <br/>
+(727) 796-0667                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Westfield-Sarasota-Square"">Westfield Sarasota Square</a>
+                        </h2>
+
+                        <p>
+                            8201 S Tamiami Trl
+                            <br/>Sarasota, FL 34238
+                                <br/>
+(941) 924-5005                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Weston"">Weston</a>
+                        </h2>
+
+                        <p>
+                            15990 SW 41st St
+                            <br/>Davie, FL 33331
+                                <br/>
+(954) 384-5113                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Westshore-Plaza"">Westshore Plaza</a>
+                        </h2>
+
+                        <p>
+                            241-A Westshore Plaza
+                            <br/>Tampa, FL 33609
+                                <br/>
+(813) 286-0534                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Winter-Garden"">Winter Garden</a>
+                        </h2>
+
+                        <p>
+                            3166 Daniels Rd
+                            <br/>Winter Garden, FL 34787
+                                <br/>
+(407) 656-0721                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/FL/Winter-Haven"">Winter Haven</a>
+                        </h2>
+
+                        <p>
+                            143 Landings Blvd
+                            <br/>Winter Haven, FL 33880
+                                <br/>
+(863) 299-2697                        </p>
+                    </div>
+    "

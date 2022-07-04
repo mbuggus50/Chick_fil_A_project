@@ -1,0 +1,99 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/ID/Ammon"">Ammon</a>
+                        </h2>
+
+                        <p>
+                            3003 S 25th E
+                            <br/>Ammon, ID 83406
+                                <br/>
+(208) 523-2697                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/ID/Boise-State-University"">Boise State University</a>
+                        </h2>
+
+                        <p>
+                            1910 University Dr
+                                <br/>
+Student Union                            <br/>Boise, ID 83725
+                                <br/>
+(208) 426-1437                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/ID/Brigham-Young-University---Idaho"">Brigham Young University - Idaho</a>
+                        </h2>
+
+                        <p>
+                            525 S Center St
+                                <br/>
+Manwaring Center                            <br/>Rexburg, ID 83460
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/ID/Broadway--Front"">Broadway &amp; Front</a>
+                        </h2>
+
+                        <p>
+                            300 S Broadway Ave
+                            <br/>Boise, ID 83702
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/ID/Franklin-Road"">Franklin Road</a>
+                        </h2>
+
+                        <p>
+                            8000 W Franklin Rd
+                            <br/>Boise, ID 83709
+                                <br/>
+(208) 376-6110                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/ID/Twin-Falls"">Twin Falls</a>
+                        </h2>
+
+                        <p>
+                            1631 Blue Lakes Blvd N
+                            <br/>Twin Falls, ID 83301
+                                <br/>
+(208) 735-5010                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/ID/University-of-Idaho"">University of Idaho</a>
+                        </h2>
+
+                        <p>
+                            1080 W 6th St
+                                <br/>
+Idaho Commons Food Court                            <br/>Moscow, ID 83843
+                                <br/>
+(208) 885-6070                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/ID/Village-at-Meridian"">Village at Meridian</a>
+                        </h2>
+
+                        <p>
+                            2012 N Eagle Rd
+                            <br/>Meridian, ID 83646
+                                <br/>
+(208) 887-2143                        </p>
+                    </div>
+    "

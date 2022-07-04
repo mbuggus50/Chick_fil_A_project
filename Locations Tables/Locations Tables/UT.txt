@@ -1,0 +1,339 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/American-Fork"">American Fork</a>
+                        </h2>
+
+                        <p>
+                            183 N West State Rd
+                            <br/>American Fork, UT 84003
+                                <br/>
+(801) 763-2697                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Brigham-Young-University"">Brigham Young University</a>
+                        </h2>
+
+                        <p>
+                            685 E University Pkwy
+                                <br/>
+Cougareat Food Court                            <br/>Provo, UT 84602
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Bulldog--State"">Bulldog &amp; State</a>
+                        </h2>
+
+                        <p>
+                            484 W. Bulldog Blvd.
+                            <br/>Provo, UT 84604
+                                <br/>
+(801) 374-2697                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Centerville"">Centerville</a>
+                        </h2>
+
+                        <p>
+                            540 N 800 W
+                            <br/>Centerville, UT 84014
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/City-Creek-Center"">City Creek Center</a>
+                        </h2>
+
+                        <p>
+                            28 S State St
+                            <br/>Salt Lake City, UT 84111
+                                <br/>
+(801) 363-2697                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Draper"">Draper</a>
+                        </h2>
+
+                        <p>
+                            357 E 12300 S
+                            <br/>Draper, UT 84020
+                                <br/>
+(801) 495-2004                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Fashion-Place"">Fashion Place</a>
+                        </h2>
+
+                        <p>
+                            6191 S State St Ste 348
+                            <br/>Murray, UT 84107
+                                <br/>
+(801) 281-0673                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Fort-Union"">Fort Union</a>
+                        </h2>
+
+                        <p>
+                            1088 E Fort Union Blvd
+                            <br/>Midvale, UT 84047
+                                <br/>
+(801) 562-5900                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Jordan-Landing"">Jordan Landing</a>
+                        </h2>
+
+                        <p>
+                            7676 Campus View Dr
+                            <br/>West Jordan, UT 84084
+                                <br/>
+(801) 280-2103                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Layton"">Layton</a>
+                        </h2>
+
+                        <p>
+                            651 W Antelope Dr
+                            <br/>Layton, UT 84041
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Layton-Hills-Mall"">Layton Hills Mall</a>
+                        </h2>
+
+                        <p>
+                            1201 N Hill Field Rd Ste Fc-07
+                                <br/>
+Suite FC-07                            <br/>Layton, UT 84041
+                                <br/>
+(801) 546-4812                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Lehi-Pointe"">Lehi Pointe</a>
+                        </h2>
+
+                        <p>
+                            3470 N Digital Dr
+                            <br/>Lehi, UT 84043
+                                <br/>
+(801) 341-0269                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Logan"">Logan</a>
+                        </h2>
+
+                        <p>
+                            1323 N Main St
+                            <br/>Logan, UT 84341
+                                <br/>
+(435) 755-8300                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Murray"">Murray</a>
+                        </h2>
+
+                        <p>
+                            5175 S State St
+                            <br/>Murray, UT 84107
+                                <br/>
+(801) 262-0681                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Ogden"">Ogden</a>
+                        </h2>
+
+                        <p>
+                            1120 Washington Blvd
+                            <br/>Ogden, UT 84404
+                                <br/>
+(801) 394-1992                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Orem-Plaza"">Orem Plaza</a>
+                        </h2>
+
+                        <p>
+                            121 N State St
+                            <br/>Orem, UT 84057
+                                <br/>
+(801) 221-9994                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Red-Rock-Commons"">Red Rock Commons</a>
+                        </h2>
+
+                        <p>
+                            15 S River Rd Ste 500
+                            <br/>Saint George, UT 84790
+                                <br/>
+(435) 656-4655                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Riverdale-City"">Riverdale City</a>
+                        </h2>
+
+                        <p>
+                            4067 Riverdale Rd
+                            <br/>Riverdale, UT 84405
+                                <br/>
+(801) 394-0661                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/South-Jordan"">South Jordan</a>
+                        </h2>
+
+                        <p>
+                            11494 District Dr
+                            <br/>South Jordan, UT 84095
+                                <br/>
+(801) 727-2697                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/South-Towne-Marketplace"">South Towne Marketplace</a>
+                        </h2>
+
+                        <p>
+                            10090 S State St
+                            <br/>Sandy, UT 84070
+                                <br/>
+(801) 563-9716                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Southern-Utah-University"">Southern Utah University</a>
+                        </h2>
+
+                        <p>
+                            351 W University Blvd
+                                <br/>
+Sharwan Smith Student Center                            <br/>Cedar City, UT 84720
+                                <br/>
+(435) 586-7780                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Spanish-Fork"">Spanish Fork</a>
+                        </h2>
+
+                        <p>
+                            825 E Highway 6
+                            <br/>Spanish Fork, UT 84660
+                                <br/>
+(801) 798-8129                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Station-Park"">Station Park</a>
+                        </h2>
+
+                        <p>
+                            440 N Station Pkwy
+                            <br/>Farmington, UT 84025
+                                <br/>
+(801) 451-7021                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Sugar-House"">Sugar House</a>
+                        </h2>
+
+                        <p>
+                            1206 E 2100 S
+                            <br/>Salt Lake City, UT 84106
+                                <br/>
+(801) 486-0609                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Taylorsville"">Taylorsville</a>
+                        </h2>
+
+                        <p>
+                            5580 S Redwood Rd
+                            <br/>Taylorsville, UT 84123
+                                <br/>
+(801) 969-6006                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/University-Mall-UT"">University Mall (UT)</a>
+                        </h2>
+
+                        <p>
+                            575 E University Pkwy Ste M208
+                            <br/>Orem, UT 84097
+                                <br/>
+(801) 224-0958                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/Utah-Valley-University"">Utah Valley University</a>
+                        </h2>
+
+                        <p>
+                            800 W University Pkwy
+                                <br/>
+Sorenson Student Center                            <br/>Orem, UT 84058
+                                <br/>
+(801) 863-8664                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/UT/West-Valley"">West Valley</a>
+                        </h2>
+
+                        <p>
+                            3246 S 5600 W
+                            <br/>Salt Lake City, UT 84120
+                                <br/>
+(801) 968-8267                        </p>
+                    </div>
+    "

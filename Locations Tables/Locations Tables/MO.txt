@@ -1,0 +1,475 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Arnold"">Arnold</a>
+                        </h2>
+
+                        <p>
+                            1 Arnold Mall
+                            <br/>Arnold, MO 63010
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Barry-Road"">Barry Road</a>
+                        </h2>
+
+                        <p>
+                            6501 NW Barry Rd
+                            <br/>Kansas City, MO 64154
+                                <br/>
+(816) 587-0411                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Battlefield-Mall"">Battlefield Mall</a>
+                        </h2>
+
+                        <p>
+                            2825 S Glenstone Ave Ste Vc-11
+                            <br/>Springfield, MO 65804
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Blue-Springs"">Blue Springs</a>
+                        </h2>
+
+                        <p>
+                            951 NE Coronado Dr
+                            <br/>Blue Springs, MO 64014
+                                <br/>
+(816) 220-2321                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Branson"">Branson</a>
+                        </h2>
+
+                        <p>
+                            607 West Main Street
+                            <br/>Branson, MO 65616
+                                <br/>
+(417) 334-2723                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Brentwood-MO"">Brentwood (MO)</a>
+                        </h2>
+
+                        <p>
+                            8590 Eager Rd
+                            <br/>Brentwood, MO 63144
+                                <br/>
+(314) 968-5400                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Cape-Girardeau"">Cape Girardeau</a>
+                        </h2>
+
+                        <p>
+                            3333 Gordonville Rd
+                            <br/>Cape Girardeau, MO 63703
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Chesterfield-Valley"">Chesterfield Valley</a>
+                        </h2>
+
+                        <p>
+                            17365 Chesterfield Airport Rd
+                            <br/>Chesterfield, MO 63005
+                                <br/>
+(636) 536-6933                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Des-Peres"">Des Peres</a>
+                        </h2>
+
+                        <p>
+                            11997 Manchester Rd
+                            <br/>Des Peres, MO 63131
+                                <br/>
+(314) 821-3452                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Ellisville"">Ellisville</a>
+                        </h2>
+
+                        <p>
+                            304 Clarkson Rd
+                            <br/>Ellisville, MO 63011
+                                <br/>
+(636) 527-0016                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Glenstone"">Glenstone</a>
+                        </h2>
+
+                        <p>
+                            3700 S Glenstone Ave
+                            <br/>Springfield, MO 65804
+                                <br/>
+(417) 890-5800                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Hampton--Chippewa"">Hampton &amp; Chippewa</a>
+                        </h2>
+
+                        <p>
+                            3801 Hampton Ave
+                            <br/>Saint Louis, MO 63109
+                                <br/>
+(314) 832-2748                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Independence-Center"">Independence Center</a>
+                        </h2>
+
+                        <p>
+                            18785 E 39th St S
+                            <br/>Independence, MO 64057
+                                <br/>
+(816) 795-7775                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Jefferson-City"">Jefferson City</a>
+                        </h2>
+
+                        <p>
+                            3407 Missouri Blvd
+                            <br/>Jefferson City, MO 65109
+                                <br/>
+(573) 638-0151                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Lees-Summit"">Lee&#39;s Summit</a>
+                        </h2>
+
+                        <p>
+                            690 Nw Blue Pkwy
+                            <br/>Lees Summit, MO 64086
+                                <br/>
+(816) 246-2948                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Liberty"">Liberty</a>
+                        </h2>
+
+                        <p>
+                            110 N Conistor Ln
+                            <br/>Liberty, MO 64068
+                                <br/>
+(816) 415-2212                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Lindenwood-University"">Lindenwood University</a>
+                        </h2>
+
+                        <p>
+                            209 S Kingshighway St
+                                <br/>
+Spellman Student Center                            <br/>Saint Charles, MO 63301
+                                <br/>
+(636) 255-2241                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Mid-Rivers-Mall-Dr--94"">Mid Rivers Mall Dr &amp; 94</a>
+                        </h2>
+
+                        <p>
+                            6180 Mid Rivers Mall Dr
+                            <br/>Saint Peters, MO 63304
+                                <br/>
+(636) 447-3881                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Missouri-State-University"">Missouri State University</a>
+                        </h2>
+
+                        <p>
+                            901 S National
+                                <br/>
+Plaster Student Union                            <br/>Springfield, MO 65897
+                                <br/>
+(417) 836-4211                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Missouri-University-of-Science--Technology"">Missouri University of Science &amp; Technology</a>
+                        </h2>
+
+                        <p>
+                            1346 N Bishop Ave
+                            <br/>Rolla, MO 65409
+                                <br/>
+(573) 341-5436                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Missouri-Western-State-University"">Missouri Western State University</a>
+                        </h2>
+
+                        <p>
+                            4525 Downs Dr
+                                <br/>
+Blum Student Union Food Court                            <br/>Saint Joseph, MO 64507
+                                <br/>
+(806) 271-4426                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Northpark-Mall-MO"">Northpark Mall (MO)</a>
+                        </h2>
+
+                        <p>
+                            101 N Range Line Rd
+                                <br/>
+416 Northpark Mall                            <br/>Joplin, MO 64801
+                                <br/>
+(417) 781-7123                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Northwest-Missouri-State-University"">Northwest Missouri State University</a>
+                        </h2>
+
+                        <p>
+                            800 University Dr
+                                <br/>
+J.W. Jones Student Center                            <br/>Maryville, MO 64468
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/OFallon"">O&#39;Fallon</a>
+                        </h2>
+
+                        <p>
+                            2106 Highway K
+                            <br/>O Fallon, MO 63368
+                                <br/>
+(636) 272-5346                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Range-Line-Road"">Range Line Road</a>
+                        </h2>
+
+                        <p>
+                            2127 S Range Line Rd
+                            <br/>Joplin, MO 64804
+                                <br/>
+(417) 781-6000                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/South-County"">South County</a>
+                        </h2>
+
+                        <p>
+                            4125 Lemay Ferry Rd
+                            <br/>Saint Louis, MO 63129
+                                <br/>
+(314) 845-3499                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Southeast-Missouri-State-University"">Southeast Missouri State University</a>
+                        </h2>
+
+                        <p>
+                            1 University Plz
+                                <br/>
+MS 1700                            <br/>Cape Girardeau, MO 63701
+                                <br/>
+(573) 651-2569                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/St-Joseph"">St. Joseph</a>
+                        </h2>
+
+                        <p>
+                            5303 N Belt Hwy
+                            <br/>Saint Joseph, MO 64506
+                                <br/>
+(816) 232-5500                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/St-Louis-College-of-Pharmacy"">St. Louis College of Pharmacy</a>
+                        </h2>
+
+                        <p>
+                            4588 Parkview Pl
+                                <br/>
+Parkview Cafe                            <br/>Saint Louis, MO 63110
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/St-Louis-University"">St. Louis University</a>
+                        </h2>
+
+                        <p>
+                            20 N Grand Blvd
+                                <br/>
+Busch Student Center                            <br/>Saint Louis, MO 63103
+                                <br/>
+(314) 977-1547                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Stadium-Boulevard"">Stadium Boulevard</a>
+                        </h2>
+
+                        <p>
+                            305 N Stadium Blvd
+                            <br/>Columbia, MO 65203
+                                <br/>
+(573) 445-6627                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Sunset-Hills"">Sunset Hills</a>
+                        </h2>
+
+                        <p>
+                            10706 Sunset Hills Plz
+                            <br/>Saint Louis, MO 63127
+                                <br/>
+(314) 822-9500                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Sunshine--Campbell"">Sunshine &amp; Campbell</a>
+                        </h2>
+
+                        <p>
+                            425 W Sunshine St
+                            <br/>Springfield, MO 65807
+                                <br/>
+(417) 866-4232                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Truman-State-University"">Truman State University</a>
+                        </h2>
+
+                        <p>
+                            901 S. Franklin St.
+                            <br/>Kirksville, MO 63501
+                                <br/>
+(660) 785-4197                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/University-of-Central-Missouri"">University of Central Missouri</a>
+                        </h2>
+
+                        <p>
+                            517 South Holden
+                                <br/>
+Elliott University Union                            <br/>Warrensburg, MO 64093
+                                <br/>
+(660) 543-4300                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/University-of-Missouri---Kansas-City"">University of Missouri - Kansas City</a>
+                        </h2>
+
+                        <p>
+                            5100 Cherry St
+                                <br/>
+Student Union Bldg. #216                            <br/>Kansas City, MO 64110
+                                <br/>
+(816) 235-5080                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Ward-Parkway"">Ward Parkway</a>
+                        </h2>
+
+                        <p>
+                            8551 State Line Rd
+                            <br/>Kansas City, MO 64114
+                                <br/>
+(816) 361-8800                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/Wentzville"">Wentzville</a>
+                        </h2>
+
+                        <p>
+                            1918 Wentzville Pkwy
+                            <br/>Wentzville, MO 63385
+                                <br/>
+(636) 639-2357                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MO/West-County-Center"">West County Center</a>
+                        </h2>
+
+                        <p>
+                            184 W County Ctr Spc N
+                            <br/>Des Peres, MO 63131
+                                <br/>
+(314) 965-0103                        </p>
+                    </div>
+    "

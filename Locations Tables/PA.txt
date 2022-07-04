@@ -1,0 +1,1011 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Altoona"">Altoona</a>
+                        </h2>
+
+                        <p>
+                            106 Sierra Dr
+                            <br/>Altoona, PA 16601
+                                <br/>
+(814) 942-1647                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Aramingo"">Aramingo</a>
+                        </h2>
+
+                        <p>
+                            2301 E Butler St
+                            <br/>Philadelphia, PA 19137
+                                <br/>
+(215) 744-1410                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Ashbridge-Square"">Ashbridge Square</a>
+                        </h2>
+
+                        <p>
+                            845 E Lancaster Ave
+                            <br/>Downingtown, PA 19335
+                                <br/>
+(610) 269-7828                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Audubon"">Audubon</a>
+                        </h2>
+
+                        <p>
+                            680 S Trooper Rd
+                            <br/>Norristown, PA 19403
+                                <br/>
+(610) 650-8505                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Beaver-Valley-Mall"">Beaver Valley Mall</a>
+                        </h2>
+
+                        <p>
+                            544 Beaver Valley Mall
+                            <br/>Monaca, PA 15061
+                                <br/>
+(724) 774-4283                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Berkshire-Mall"">Berkshire Mall</a>
+                        </h2>
+
+                        <p>
+                            1665 State Hill Rd Ste 930
+                            <br/>Wyomissing, PA 19610
+                                <br/>
+(610) 373-1640                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Bloomsburg-University"">Bloomsburg University</a>
+                        </h2>
+
+                        <p>
+                            400 E 2nd St
+                                <br/>
+Soltz Residence Hall                            <br/>Bloomsburg, PA 17815
+                                <br/>
+(570) 389-5455                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Broadcasting-Square"">Broadcasting Square</a>
+                        </h2>
+
+                        <p>
+                            2707 N Meridian Blvd
+                            <br/>Reading, PA 19610
+                                <br/>
+(610) 373-7330                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/California-University-of-Pennsylvania"">California University of Pennsylvania</a>
+                        </h2>
+
+                        <p>
+                            250 University Ave
+                                <br/>
+Flatz In Student Center                            <br/>California, PA 15419
+                                <br/>
+(724) 938-4343                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Carlisle"">Carlisle</a>
+                        </h2>
+
+                        <p>
+                            2 Noble Blvd
+                            <br/>Carlisle, PA 17013
+                                <br/>
+(717) 218-8427                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Chambersburg"">Chambersburg</a>
+                        </h2>
+
+                        <p>
+                            970 Norland Ave
+                            <br/>Chambersburg, PA 17201
+                                <br/>
+(717) 263-0477                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Cheltenham"">Cheltenham</a>
+                        </h2>
+
+                        <p>
+                            2421 W Cheltenham Ave
+                            <br/>Philadelphia, PA 19150
+                                <br/>
+(215) 885-2423                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Columbus-Commons"">Columbus Commons</a>
+                        </h2>
+
+                        <p>
+                            2204 S Columbus Blvd
+                            <br/>Philadelphia, PA 19148
+                                <br/>
+(215) 271-2313                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Concord-Township"">Concord Township</a>
+                        </h2>
+
+                        <p>
+                            20 State Farm Dr
+                            <br/>Glen Mills, PA 19342
+                                <br/>
+(610) 358-1997                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Cranberry"">Cranberry</a>
+                        </h2>
+
+                        <p>
+                            1700 Route 228
+                            <br/>Cranberry Township, PA 16066
+                                <br/>
+(724) 772-0222                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Drexel-University"">Drexel University</a>
+                        </h2>
+
+                        <p>
+                            203 N 34th St
+                                <br/>
+Northside Dining Terrace                            <br/>Philadelphia, PA 19104
+                                <br/>
+(215) 895-6246                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Duquesne-University"">Duquesne University</a>
+                        </h2>
+
+                        <p>
+                            600 Forbes Ave
+                            <br/>Pittsburgh, PA 15282
+                                <br/>
+(412) 396-1329                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/East-Norriton"">East Norriton</a>
+                        </h2>
+
+                        <p>
+                            2640 Dekalb Pike
+                            <br/>East Norriton, PA 19401
+                                <br/>
+(610) 277-9906                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/East-York"">East York</a>
+                        </h2>
+
+                        <p>
+                            2801 E Market St
+                            <br/>York, PA 17402
+                                <br/>
+(717) 757-7171                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Eastgate-Plaza"">Eastgate Plaza</a>
+                        </h2>
+
+                        <p>
+                            5156 State Route 30
+                            <br/>Greensburg, PA 15601
+                                <br/>
+(724) 836-6501                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Erie"">Erie</a>
+                        </h2>
+
+                        <p>
+                            7160 Peach St
+                            <br/>Erie, PA 16509
+                                <br/>
+(814) 868-8557                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Exeter"">Exeter</a>
+                        </h2>
+
+                        <p>
+                            4675 Perkiomen Ave
+                            <br/>Reading, PA 19606
+                                <br/>
+(610) 779-5995                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Exton-Square"">Exton Square</a>
+                        </h2>
+
+                        <p>
+                            280 Exton Square Mall
+                            <br/>Exton, PA 19341
+                                <br/>
+(610) 363-6345                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Fruitville-Pike"">Fruitville Pike</a>
+                        </h2>
+
+                        <p>
+                            1579 Fruitville Pike
+                            <br/>Lancaster, PA 17601
+                                <br/>
+(717) 295-5560                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Gateway-at-Sanatoga"">Gateway at Sanatoga</a>
+                        </h2>
+
+                        <p>
+                            14 W Lightcap Rd
+                            <br/>Pottstown, PA 19464
+                                <br/>
+(610) 323-2105                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Greengate-Centre"">Greengate Centre</a>
+                        </h2>
+
+                        <p>
+                            900 Greengate Centre Cir
+                            <br/>Greensburg, PA 15601
+                                <br/>
+(724) 838-1746                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Hanover"">Hanover</a>
+                        </h2>
+
+                        <p>
+                            340 Eisenhower Dr
+                            <br/>Hanover, PA 17331
+                                <br/>
+(717) 630-2775                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Happy-Valley"">Happy Valley</a>
+                        </h2>
+
+                        <p>
+                            1938 N Atherton St
+                            <br/>State College, PA 16803
+                                <br/>
+(814) 231-0900                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Hersheypark"">Hersheypark</a>
+                        </h2>
+
+                        <p>
+                            300 Park Blvd
+                                <br/>
+Founders Way                            <br/>Hershey, PA 17033
+                                <br/>
+(717) 508-3104                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Indiana-University-of-Pennsylvania"">Indiana University of Pennsylvania</a>
+                        </h2>
+
+                        <p>
+                            319 Pratt Dr
+                            <br/>Indiana, PA 15701
+                                <br/>
+(724) 357-7571                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/King-of-Prussia"">King of Prussia</a>
+                        </h2>
+
+                        <p>
+                            135 W Dekalb Pike
+                            <br/>King Of Prussia, PA 19406
+                                <br/>
+(610) 265-2677                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/King-of-Prussia-Mall"">King of Prussia Mall</a>
+                        </h2>
+
+                        <p>
+                            160 N Gulph Rd Ste 1017
+                            <br/>King Of Prussia, PA 19406
+                                <br/>
+(610) 265-5716                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Kings-College--Kings-on-the-Square"">King&#39;s College - King&#39;s on the Square</a>
+                        </h2>
+
+                        <p>
+                            20 Public Sq
+                            <br/>Wilkes Barre, PA 18701
+                                <br/>
+(570) 208-5900                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Kutztown-University"">Kutztown University</a>
+                        </h2>
+
+                        <p>
+                            20 Luckenbill Road
+                                <br/>
+Academic Forum Building                            <br/>Kutztown, PA 19530
+                                <br/>
+(484) 646-4245                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Lansdale"">Lansdale</a>
+                        </h2>
+
+                        <p>
+                            210 Forty Foot Rd
+                            <br/>Lansdale, PA 19446
+                                <br/>
+(215) 631-7060                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Lehigh-Valley-Mall"">Lehigh Valley Mall</a>
+                        </h2>
+
+                        <p>
+                            826 Lehigh Lifestyle Ctr
+                            <br/>Whitehall, PA 18052
+                                <br/>
+(610) 231-0303                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Liberty-Place"">Liberty Place</a>
+                        </h2>
+
+                        <p>
+                            1625 Chestnut St Ste F8
+                            <br/>Philadelphia, PA 19103
+                                <br/>
+(215) 557-7853                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Lima"">Lima</a>
+                        </h2>
+
+                        <p>
+                            1190 W Baltimore Pike
+                            <br/>Media, PA 19063
+                                <br/>
+(610) 565-6001                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Lincoln-Highway-East"">Lincoln Highway East</a>
+                        </h2>
+
+                        <p>
+                            2467 Lincoln Hwy E
+                            <br/>Lancaster, PA 17602
+                                <br/>
+(717) 205-2058                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Lindle-Road"">Lindle Road</a>
+                        </h2>
+
+                        <p>
+                            4655 Lindle Rd
+                            <br/>Harrisburg, PA 17111
+                                <br/>
+(717) 939-5155                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Lionville"">Lionville</a>
+                        </h2>
+
+                        <p>
+                            211 Eagleview Blvd
+                            <br/>Exton, PA 19341
+                                <br/>
+(610) 594-2070                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Lock-Haven-University"">Lock Haven University</a>
+                        </h2>
+
+                        <p>
+                            401 N Fairview St
+                                <br/>
+Eagle Rock Food Court - Bently Hall                            <br/>Lock Haven, PA 17745
+                                <br/>
+(570) 484-2833                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Loucks-Road"">Loucks Road</a>
+                        </h2>
+
+                        <p>
+                            922 Loucks Rd
+                            <br/>York, PA 17404
+                                <br/>
+(717) 843-3333                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Lower-Nazareth"">Lower Nazareth</a>
+                        </h2>
+
+                        <p>
+                            3750 Dryland Way
+                            <br/>Easton, PA 18045
+                                <br/>
+(610) 250-5651                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/McKnight-Road"">McKnight Road</a>
+                        </h2>
+
+                        <p>
+                            7451 McKnight Rd
+                            <br/>Pittsburgh, PA 15237
+                                <br/>
+(412) 364-2581                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Mechanicsburg"">Mechanicsburg</a>
+                        </h2>
+
+                        <p>
+                            6416 Carlisle Pike Ste 3500
+                            <br/>Mechanicsburg, PA 17050
+                                <br/>
+(717) 795-1940                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Miracle-Mile"">Miracle Mile</a>
+                        </h2>
+
+                        <p>
+                            4040 William Penn Hwy
+                            <br/>Monroeville, PA 15146
+                                <br/>
+(412) 380-0999                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Misericordia-University"">Misericordia University</a>
+                        </h2>
+
+                        <p>
+                            301 Lake St
+                                <br/>
+Banks Student Center                            <br/>Dallas, PA 18612
+                                <br/>
+(570) 674-3351                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Montgomery-Mall-PA"">Montgomery Mall (PA)</a>
+                        </h2>
+
+                        <p>
+                            314 Montgomery Mall
+                            <br/>North Wales, PA 19454
+                                <br/>
+(215) 362-1855                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Montgomeryville"">Montgomeryville</a>
+                        </h2>
+
+                        <p>
+                            794 Bethlehem Pike
+                            <br/>Montgomeryville, PA 18936
+                                <br/>
+(215) 855-2202                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Neshaminy"">Neshaminy</a>
+                        </h2>
+
+                        <p>
+                            3621 Horizon Blvd
+                            <br/>Trevose, PA 19053
+                                <br/>
+(215) 355-3500                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Neshaminy-Mall"">Neshaminy Mall</a>
+                        </h2>
+
+                        <p>
+                            307 Neshaminy Mall
+                            <br/>Bensalem, PA 19020
+                                <br/>
+(215) 364-9155                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Newtown"">Newtown</a>
+                        </h2>
+
+                        <p>
+                            4 West Rd
+                            <br/>Newtown, PA 18940
+                                <br/>
+(215) 497-9011                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Northeast-Tower"">Northeast Tower</a>
+                        </h2>
+
+                        <p>
+                            4670 Roosevelt Blvd
+                                <br/>
+Northeast Tower Center                            <br/>Philadelphia, PA 19124
+                                <br/>
+(215) 535-0352                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Oxford-Valley-Road"">Oxford Valley Road</a>
+                        </h2>
+
+                        <p>
+                            2424 E Lincoln Hwy
+                            <br/>Langhorne, PA 19047
+                                <br/>
+(215) 741-3500                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Penn-State-University"">Penn State University</a>
+                        </h2>
+
+                        <p>
+                            BO1OC Hub-Robeson Center
+                            <br/>University Park, PA 16802
+                                <br/>
+(814) 865-7623                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Philadelphia-International-Airport"">Philadelphia International Airport</a>
+                        </h2>
+
+                        <p>
+                            8500 Essington Ave
+                            <br/>Philadelphia, PA 19153
+                                <br/>
+(215) 492-1814                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Pittsburgh-International-Airport"">Pittsburgh International Airport</a>
+                        </h2>
+
+                        <p>
+                            1000 Airport Blvd
+                            <br/>Pittsburgh, PA 15231
+                                <br/>
+(412) 472-0205                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Pleasant-Hills"">Pleasant Hills</a>
+                        </h2>
+
+                        <p>
+                            461 Clairton Blvd
+                            <br/>Pleasant Hills, PA 15236
+                                <br/>
+(412) 655-6562                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Plymouth-Meeting-Mall"">Plymouth Meeting Mall</a>
+                        </h2>
+
+                        <p>
+                            500 W Germantown Pike Ste 2265
+                            <br/>Plymouth Meeting, PA 19462
+                                <br/>
+(610) 828-4449                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Quakertown"">Quakertown</a>
+                        </h2>
+
+                        <p>
+                            602 N West End Blvd
+                            <br/>Quakertown, PA 18951
+                                <br/>
+(215) 538-8848                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Ridley"">Ridley</a>
+                        </h2>
+
+                        <p>
+                            405 Macdade Blvd
+                            <br/>Folsom, PA 19033
+                                <br/>
+(610) 586-1607                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Robinson"">Robinson</a>
+                        </h2>
+
+                        <p>
+                            121 Costco Dr
+                            <br/>Pittsburgh, PA 15205
+                                <br/>
+(412) 490-0177                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Ross-Park-Mall"">Ross Park Mall</a>
+                        </h2>
+
+                        <p>
+                            1000 Ross Park Mall Dr
+                            <br/>Pittsburgh, PA 15237
+                                <br/>
+(412) 369-4444                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Royersford"">Royersford</a>
+                        </h2>
+
+                        <p>
+                            70 Buckwalter Rd Ste 1450
+                            <br/>Royersford, PA 19468
+                                <br/>
+(610) 948-1290                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Shrewsbury"">Shrewsbury</a>
+                        </h2>
+
+                        <p>
+                            14665 Mount Airy Rd
+                            <br/>Shrewsbury, PA 17361
+                                <br/>
+(717) 235-4200                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/South-Hills"">South Hills</a>
+                        </h2>
+
+                        <p>
+                            1620 Washington Rd
+                            <br/>Pittsburgh, PA 15241
+                                <br/>
+(412) 833-1165                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Springfield-Park"">Springfield Park</a>
+                        </h2>
+
+                        <p>
+                            805 Baltimore Pike
+                            <br/>Springfield, PA 19064
+                                <br/>
+(610) 544-6050                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Temple-University"">Temple University</a>
+                        </h2>
+
+                        <p>
+                            1801 N Broad St
+                                <br/>
+Howard Gittis Student Center                            <br/>Philadelphia, PA 19122
+                                <br/>
+(484) 951-9894                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/The-Mall-at-Robinson"">The Mall at Robinson</a>
+                        </h2>
+
+                        <p>
+                            100 Robinson Center Dr # Fc-5
+                            <br/>Pittsburgh, PA 15205
+                                <br/>
+(412) 788-4865                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/The-Waterfront"">The Waterfront</a>
+                        </h2>
+
+                        <p>
+                            480 E Waterfront Dr
+                            <br/>Homestead, PA 15120
+                                <br/>
+(412) 462-9202                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Trexlertown"">Trexlertown</a>
+                        </h2>
+
+                        <p>
+                            6379 Hamilton Blvd
+                            <br/>Allentown, PA 18106
+                                <br/>
+(484) 664-2907                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/University-of-Pittsburgh"">University of Pittsburgh</a>
+                        </h2>
+
+                        <p>
+                            3990 5th Ave
+                                <br/>
+University of Pittsburgh Tower                            <br/>Pittsburgh, PA 15213
+                                <br/>
+(412) 624-2813                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/University-of-Scranton"">University of Scranton</a>
+                        </h2>
+
+                        <p>
+                            900 Mulberry Street
+                                <br/>
+DeNaples Student Center                            <br/>Scranton, PA 18510
+                                <br/>
+(570) 941-7456                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Warminster"">Warminster</a>
+                        </h2>
+
+                        <p>
+                            45 W Street Rd
+                            <br/>Warminster, PA 18974
+                                <br/>
+(215) 773-8480                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Warrington-Crossing"">Warrington Crossing</a>
+                        </h2>
+
+                        <p>
+                            160 Easton Rd
+                            <br/>Warrington, PA 18976
+                                <br/>
+(215) 491-4500                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Washington-PA"">Washington (PA)</a>
+                        </h2>
+
+                        <p>
+                            375 Washington Rd
+                            <br/>Washington, PA 15301
+                                <br/>
+(724) 222-0200                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/West-Chester-University"">West Chester University</a>
+                        </h2>
+
+                        <p>
+                            Rosedale Ave
+                                <br/>
+Rams Head Food Ct                            <br/>West Chester, PA 19383
+                                <br/>
+(610) 436-2730                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Westmoreland-Mall"">Westmoreland Mall</a>
+                        </h2>
+
+                        <p>
+                            5256 State Route 30 Ste 235b
+                                <br/>
+235 B Westmoreland Mall                            <br/>Greensburg, PA 15601
+                                <br/>
+(724) 832-9071                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Wexford"">Wexford</a>
+                        </h2>
+
+                        <p>
+                            12101 Perry Hwy
+                            <br/>Wexford, PA 15090
+                                <br/>
+(724) 799-8380                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Whitehall"">Whitehall</a>
+                        </h2>
+
+                        <p>
+                            2610 MacArthur Rd
+                            <br/>Whitehall, PA 18052
+                                <br/>
+(610) 432-2307                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Whitman-Square"">Whitman Square</a>
+                        </h2>
+
+                        <p>
+                            9711 Roosevelt Blvd
+                            <br/>Philadelphia, PA 19114
+                                <br/>
+(215) 969-3455                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/PA/Willow-Grove-Park"">Willow Grove Park</a>
+                        </h2>
+
+                        <p>
+                            2500 W Moreland Rd Ste 3066
+                            <br/>Willow Grove, PA 19090
+                                <br/>
+(215) 657-7676                        </p>
+                    </div>
+    "

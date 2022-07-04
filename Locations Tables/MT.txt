@@ -1,0 +1,14 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MT/Kalispell"">Kalispell</a>
+                        </h2>
+
+                        <p>
+                            35 Treeline Rd
+                            <br/>Kalispell, MT 59901
+                                <br/>
+(406) 752-3710                        </p>
+                    </div>
+    "

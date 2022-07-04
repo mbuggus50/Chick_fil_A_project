@@ -1,0 +1,26 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/ND/Grand-Forks"">Grand Forks</a>
+                        </h2>
+
+                        <p>
+                            3230 32nd Ave S
+                            <br/>Grand Forks, ND 58201
+                                <br/>
+(701) 746-9942                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/ND/West-Acres"">West Acres</a>
+                        </h2>
+
+                        <p>
+                            4100 13th Ave S
+                            <br/>Fargo, ND 58103
+                                <br/>
+(701) 281-5976                        </p>
+                    </div>
+    "

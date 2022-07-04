@@ -1,0 +1,219 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/Apple-Valley"">Apple Valley</a>
+                        </h2>
+
+                        <p>
+                            7480 153rd St W
+                            <br/>Apple Valley, MN 55124
+                                <br/>
+(952) 431-4445                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/Bloomington-MN"">Bloomington (MN)</a>
+                        </h2>
+
+                        <p>
+                            2500 West 79th St
+                            <br/>Bloomington, MN 55431
+                                <br/>
+(952) 888-0488                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/Burnsville--MN"">Burnsville  (MN)</a>
+                        </h2>
+
+                        <p>
+                            1200 County Road 42 W
+                            <br/>Burnsville, MN 55337
+                                <br/>
+(952) 898-3410                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/Chanhassen"">Chanhassen</a>
+                        </h2>
+
+                        <p>
+                            445 W 79th St
+                            <br/>Chanhassen, MN 55317
+                                <br/>
+(952) 937-7557                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/Coon-Rapids-at-Riverdale"">Coon Rapids at Riverdale</a>
+                        </h2>
+
+                        <p>
+                            3590 River Rapids Dr NW
+                            <br/>Coon Rapids, MN 55448
+                                <br/>
+(763) 323-9978                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/Crossroads-Center"">Crossroads Center</a>
+                        </h2>
+
+                        <p>
+                            4185 W Division St
+                            <br/>Saint Cloud, MN 56301
+                                <br/>
+(320) 251-1669                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/Eagan"">Eagan</a>
+                        </h2>
+
+                        <p>
+                            3420 Promenade Ave
+                            <br/>Eagan, MN 55123
+                                <br/>
+(651) 686-0041                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/Ear-of-Corn"">Ear of Corn</a>
+                        </h2>
+
+                        <p>
+                            1201 Broadway Ave S
+                            <br/>Rochester, MN 55904
+                                <br/>
+(507) 289-2669                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/Knollwood"">Knollwood</a>
+                        </h2>
+
+                        <p>
+                            8020 Highway 7
+                            <br/>Saint Louis Park, MN 55426
+                                <br/>
+(952) 938-1034                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/Mall-of-America"">Mall of America</a>
+                        </h2>
+
+                        <p>
+                            354 Central Pkwy
+                            <br/>Bloomington, MN 55425
+                                <br/>
+(952) 854-1557                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/Maple-Grove"">Maple Grove</a>
+                        </h2>
+
+                        <p>
+                            11820 Fountains Way
+                            <br/>Maple Grove, MN 55369
+                                <br/>
+(763) 416-1773                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/Maplewood"">Maplewood</a>
+                        </h2>
+
+                        <p>
+                            3045 White Bear Ave N
+                            <br/>Maplewood, MN 55109
+                                <br/>
+(651) 777-2329                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/Minneapolis---Saint-Paul-Intl-Airport-Concourse-C"">Minneapolis - Saint Paul Intl Airport-Concourse C</a>
+                        </h2>
+
+                        <p>
+                            4300 Glumack Dr
+                                <br/>
+C-2560                            <br/>Saint Paul, MN 55111
+                                <br/>
+(612) 355-4678                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/Minnesota-State-University-Mankato"">Minnesota State University-Mankato</a>
+                        </h2>
+
+                        <p>
+                            7 Centennial Student Un
+                            <br/>Mankato, MN 56001
+                                <br/>
+(507) 389-2613                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/Northtown"">Northtown</a>
+                        </h2>
+
+                        <p>
+                            595 Northtown Dr NE
+                            <br/>Blaine, MN 55434
+                                <br/>
+(763) 786-4478                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/St-Cloud-State-University"">St. Cloud State University</a>
+                        </h2>
+
+                        <p>
+                            720 4th Ave S
+                            <br/>Saint Cloud, MN 56301
+                                <br/>
+(320) 308-4373                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/University-of-Minnesota"">University of Minnesota</a>
+                        </h2>
+
+                        <p>
+                            300 Washington Ave Se
+                            <br/>Minneapolis, MN 55455
+                                <br/>
+(612) 625-2037                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MN/West-St-Paul"">West St. Paul</a>
+                        </h2>
+
+                        <p>
+                            1770 Robert St S
+                            <br/>West Saint Paul, MN 55118
+                                <br/>
+(651) 457-2991                        </p>
+                    </div>
+    "

@@ -1,0 +1,26 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/WY/Dell-Range"">Dell Range</a>
+                        </h2>
+
+                        <p>
+                            4435 Windmill Rd
+                            <br/>Cheyenne, WY 82009
+                                <br/>
+(307) 638-4444                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/WY/Frontier-Mall"">Frontier Mall</a>
+                        </h2>
+
+                        <p>
+                            1400 Dell Range Blvd Spc 89
+                            <br/>Cheyenne, WY 82009
+                                <br/>
+(307) 632-7801                        </p>
+                    </div>
+    "

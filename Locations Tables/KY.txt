@@ -1,0 +1,464 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Ashland"">Ashland</a>
+                        </h2>
+
+                        <p>
+                            410 River Hill Dr
+                            <br/>Ashland, KY 41101
+                                <br/>
+(606) 324-7469                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Bardstown-Road"">Bardstown Road</a>
+                        </h2>
+
+                        <p>
+                            3420 Bardstown Road
+                            <br/>Louisville, KY 40218
+                                <br/>
+(502) 459-0070                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Campbell-Lane"">Campbell Lane</a>
+                        </h2>
+
+                        <p>
+                            1766 Campbell Ln
+                            <br/>Bowling Green, KY 42104
+                                <br/>
+(270) 782-6807                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Campbellsville-University"">Campbellsville University</a>
+                        </h2>
+
+                        <p>
+                            1 University Dr Upo 783
+                                <br/>
+Student Center                            <br/>Campbellsville, KY 42718
+                                <br/>
+(270) 789-5063                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Cincinnati-Airport"">Cincinnati Airport</a>
+                        </h2>
+
+                        <p>
+                            Terminal 3, 4th Floor
+                                <br/>
+Cincinnati / N KY Airport                            <br/>Hebron, KY 41048
+                                <br/>
+(859) 767-1076                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Dixie-Hwy-KY"">Dixie Hwy (KY)</a>
+                        </h2>
+
+                        <p>
+                            6630 Dixie Hwy
+                            <br/>Louisville, KY 40258
+                                <br/>
+(502) 935-6500                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Eastern-Kentucky-University"">Eastern Kentucky University</a>
+                        </h2>
+
+                        <p>
+                            17 Powell Dr
+                            <br/>Richmond, KY 40475
+                                <br/>
+(859) 622-3691                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Elizabethtown"">Elizabethtown</a>
+                        </h2>
+
+                        <p>
+                            1840 N Dixie Hwy
+                            <br/>Elizabethtown, KY 42701
+                                <br/>
+(270) 982-1350                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Fayette-Mall"">Fayette Mall</a>
+                        </h2>
+
+                        <p>
+                            3401 Nicholasville Rd Ste FC5A
+                            <br/>Lexington, KY 40503
+                                <br/>
+(859) 272-2614                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Fort-Wright"">Fort Wright</a>
+                        </h2>
+
+                        <p>
+                            3436 Madison Pike Route 17
+                            <br/>Ft Wright, KY 41017
+                                <br/>
+(859) 331-0276                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Frankfort-KY"">Frankfort (KY)</a>
+                        </h2>
+
+                        <p>
+                            1300 US Highway 127 S Ste F
+                            <br/>Frankfort, KY 40601
+                                <br/>
+(502) 234-5222                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Georgetown-KY"">Georgetown (KY)</a>
+                        </h2>
+
+                        <p>
+                            101 Tiger Way
+                            <br/>Georgetown, KY 40324
+                                <br/>
+(502) 863-6767                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Glenmary"">Glenmary</a>
+                        </h2>
+
+                        <p>
+                            7901 Bardstown Rd
+                            <br/>Louisville, KY 40291
+                                <br/>
+(502) 231-1191                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Hamburg-Place"">Hamburg Place</a>
+                        </h2>
+
+                        <p>
+                            1863 Plaudit Pl
+                            <br/>Lexington, KY 40509
+                                <br/>
+(859) 543-0063                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Hopkinsville"">Hopkinsville</a>
+                        </h2>
+
+                        <p>
+                            4250 Fort Campbell Blvd
+                            <br/>Hopkinsville, KY 42240
+                                <br/>
+(270) 890-0042                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Houston-Road"">Houston Road</a>
+                        </h2>
+
+                        <p>
+                            4980 Houston Rd
+                            <br/>Florence, KY 41042
+                                <br/>
+(859) 594-4800                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Jefferson-Commons"">Jefferson Commons</a>
+                        </h2>
+
+                        <p>
+                            4925 Outer Loop
+                            <br/>Louisville, KY 40219
+                                <br/>
+(502) 969-5090                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Jefferson-Mall"">Jefferson Mall</a>
+                        </h2>
+
+                        <p>
+                            4801 Outer Loop
+                            <br/>Louisville, KY 40219
+                                <br/>
+(502) 968-7904                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Kentucky-Oaks-Mall"">Kentucky Oaks Mall</a>
+                        </h2>
+
+                        <p>
+                            5101 Hinkleville Rd Ste 540
+                            <br/>Paducah, KY 42001
+                                <br/>
+(270) 442-0461                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Mall-Road"">Mall Road</a>
+                        </h2>
+
+                        <p>
+                            8050 Mall Rd
+                            <br/>Florence, KY 41042
+                                <br/>
+(859) 594-4600                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Mall-St-Matthews"">Mall St. Matthews</a>
+                        </h2>
+
+                        <p>
+                            5000 Shelbyville Rd Ste 1630
+                            <br/>Louisville, KY 40207
+                                <br/>
+(502) 259-9484                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Middletown-Commons"">Middletown Commons</a>
+                        </h2>
+
+                        <p>
+                            13313 Shelbyville Rd
+                            <br/>Louisville, KY 40223
+                                <br/>
+(502) 253-0053                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Morehead-State-University"">Morehead State University</a>
+                        </h2>
+
+                        <p>
+                            UPO 1371
+                            <br/>Morehead, KY 40351
+                                <br/>
+(606) 783-2017                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Newport-Pavilion"">Newport Pavilion</a>
+                        </h2>
+
+                        <p>
+                            95 Carothers Rd
+                            <br/>Newport, KY 41071
+                                <br/>
+(859) 491-4232                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Nicholasville-Road"">Nicholasville Road</a>
+                        </h2>
+
+                        <p>
+                            2514 Nicholasville Rd
+                            <br/>Lexington, KY 40503
+                                <br/>
+(859) 278-0003                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Owensboro"">Owensboro</a>
+                        </h2>
+
+                        <p>
+                            4601 Frederica St
+                            <br/>Owensboro, KY 42301
+                                <br/>
+(270) 683-0907                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Paducah"">Paducah</a>
+                        </h2>
+
+                        <p>
+                            5193 Hinkleville Rd
+                            <br/>Paducah, KY 42001
+                                <br/>
+(270) 444-6061                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Richmond-Centre"">Richmond Centre</a>
+                        </h2>
+
+                        <p>
+                            2072 Lantern Ridge Dr
+                            <br/>Richmond, KY 40475
+                                <br/>
+(859) 625-0388                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Springhurst"">Springhurst</a>
+                        </h2>
+
+                        <p>
+                            10501 Westport Rd
+                            <br/>Louisville, KY 40241
+                                <br/>
+(502) 339-0505                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/St-Matthews"">St. Matthews</a>
+                        </h2>
+
+                        <p>
+                            5001 Shelbyville Rd
+                            <br/>Louisville, KY 40207
+                                <br/>
+(502) 894-9749                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Stonybrook"">Stonybrook</a>
+                        </h2>
+
+                        <p>
+                            2350 Shane Dr
+                            <br/>Louisville, KY 40220
+                                <br/>
+(502) 491-7707                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Turfland"">Turfland</a>
+                        </h2>
+
+                        <p>
+                            2025 Harrodsburg Rd
+                            <br/>Lexington, KY 40504
+                                <br/>
+(859) 373-0007                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/University-of-Kentucky"">University of Kentucky</a>
+                        </h2>
+
+                        <p>
+                            239 Student Ctr
+                                <br/>
+UK Student Center                            <br/>Lexington, KY 40506
+                                <br/>
+(859) 218-6726                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/University-of-Louisville"">University of Louisville</a>
+                        </h2>
+
+                        <p>
+                            2100 S Floyd St
+                                <br/>
+SAC Bldg W206                            <br/>Louisville, KY 40208
+                                <br/>
+(502) 852-6715                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/University-of-Pikeville"">University of Pikeville</a>
+                        </h2>
+
+                        <p>
+                            810 Hambley Blvd
+                                <br/>
+Health Professional Education Building                            <br/>Pikeville, KY 41501
+                                <br/>
+(606) 218-5040                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/University-of-the-Cumberlands"">University of the Cumberlands</a>
+                        </h2>
+
+                        <p>
+                            6178 College Station Dr
+                            <br/>Williamsburg, KY 40769
+                                <br/>
+(606) 539-4409                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Western-Kentucky-University"">Western Kentucky University</a>
+                        </h2>
+
+                        <p>
+                            1 Big Red Way
+                                <br/>
+124 Downing Univ. Center                            <br/>Bowling Green, KY 42101
+                                <br/>
+(270) 745-6844                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/KY/Western-Kentucky-University-Tower-Food-Court"">Western Kentucky University-Tower Food Court</a>
+                        </h2>
+
+                        <p>
+                            1770 Avenue Of Champions
+                                <br/>
+Tower Food Court                            <br/>Bowling Green, KY 42101
+                        </p>
+                    </div>
+    "

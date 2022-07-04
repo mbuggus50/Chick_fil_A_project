@@ -1,0 +1,14 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/RI/Bald-Hill-Road"">Bald Hill Road</a>
+                        </h2>
+
+                        <p>
+                            1500 Bald Hill Rd
+                            <br/>Warwick, RI 02886
+                                <br/>
+(401) 615-3423                        </p>
+                    </div>
+    "

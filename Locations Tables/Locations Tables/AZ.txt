@@ -1,0 +1,462 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/89th--Shea"">89th &amp; Shea</a>
+                        </h2>
+
+                        <p>
+                            10652 N 89th Pl
+                            <br/>Scottsdale, AZ 85260
+                                <br/>
+(480) 404-6798                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Ahwatukee-Foothills-Town-Center"">Ahwatukee Foothills Town Center</a>
+                        </h2>
+
+                        <p>
+                            5035 E Ray Rd
+                            <br/>Phoenix, AZ 85044
+                                <br/>
+(480) 961-6006                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Arcadia"">Arcadia</a>
+                        </h2>
+
+                        <p>
+                            4105 N 44th St
+                            <br/>Phoenix, AZ 85018
+                                <br/>
+(602) 840-4566                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Arizona--Ocotillo"">Arizona &amp; Ocotillo</a>
+                        </h2>
+
+                        <p>
+                            3871 S Arizona Ave
+                            <br/>Chandler, AZ 85248
+                                <br/>
+(480) 895-2002                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Arizona-State-University"">Arizona State University</a>
+                        </h2>
+
+                        <p>
+                            1290 S Normal Ave
+                                <br/>
+Memorial Union Building                            <br/>Tempe, AZ 85281
+                                <br/>
+(480) 965-2052                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Arizona-State-University---Downtown"">Arizona State University - Downtown</a>
+                        </h2>
+
+                        <p>
+                            120 E Taylor St
+                            <br/>Phoenix, AZ 85004
+                                <br/>
+(602) 496-6715                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Arizona-State-University---West-Campus"">Arizona State University - West Campus</a>
+                        </h2>
+
+                        <p>
+                            4701 W Thunderbird Rd
+                                <br/>
+Poly-West Campus                            <br/>Glendale, AZ 85306
+                                <br/>
+(602) 543-3363                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Arrowhead"">Arrowhead</a>
+                        </h2>
+
+                        <p>
+                            16657 N 83rd Ave
+                            <br/>Peoria, AZ 85382
+                                <br/>
+(623) 878-0885                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Avondale"">Avondale</a>
+                        </h2>
+
+                        <p>
+                            10180 W Mcdowell Rd
+                            <br/>Avondale, AZ 85392
+                                <br/>
+(623) 907-4780                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Camelback--16th-Street"">Camelback &amp; 16th Street</a>
+                        </h2>
+
+                        <p>
+                            1601 E Camelback Rd
+                            <br/>Phoenix, AZ 85016
+                                <br/>
+(602) 264-4450                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Casa-Grande"">Casa Grande</a>
+                        </h2>
+
+                        <p>
+                            893 N Promenade Pkwy
+                            <br/>Casa Grande, AZ 85194
+                                <br/>
+(520) 876-9001                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Chandler-Festival"">Chandler Festival</a>
+                        </h2>
+
+                        <p>
+                            2550 W Chandler Blvd
+                            <br/>Chandler, AZ 85224
+                                <br/>
+(480) 855-1555                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Crossroads-Towne-Center"">Crossroads Towne Center</a>
+                        </h2>
+
+                        <p>
+                            2900 E Germann Rd
+                            <br/>Chandler, AZ 85286
+                                <br/>
+(480) 812-1717                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Deer-Valley"">Deer Valley</a>
+                        </h2>
+
+                        <p>
+                            3001 W Agua Fria Fwy
+                            <br/>Phoenix, AZ 85027
+                                <br/>
+(623) 581-3277                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/El-Con"">El Con</a>
+                        </h2>
+
+                        <p>
+                            3605 E Broadway Blvd
+                            <br/>Tucson, AZ 85716
+                                <br/>
+(520) 321-4232                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Flagstaff"">Flagstaff</a>
+                        </h2>
+
+                        <p>
+                            1000 S Milton Rd
+                            <br/>Flagstaff, AZ 86001
+                                <br/>
+(928) 779-9111                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Gilbert-Gateway-Towne-Center"">Gilbert Gateway Towne Center</a>
+                        </h2>
+
+                        <p>
+                            4908 S Power Rd
+                            <br/>Mesa, AZ 85212
+                                <br/>
+(480) 988-6252                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Goodyear"">Goodyear</a>
+                        </h2>
+
+                        <p>
+                            1466 N Dysart Rd
+                            <br/>Goodyear, AZ 85395
+                                <br/>
+(623) 536-0241                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Grand-Canyon-University"">Grand Canyon University</a>
+                        </h2>
+
+                        <p>
+                            3300 W Camelback Rd
+                                <br/>
+Thunder Alley                            <br/>Phoenix, AZ 85017
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Ina-at-Thornydale"">Ina at Thornydale</a>
+                        </h2>
+
+                        <p>
+                            3943 W Ina Rd
+                            <br/>Tucson, AZ 85741
+                                <br/>
+(520) 744-6269                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Mesa-Riverview"">Mesa Riverview</a>
+                        </h2>
+
+                        <p>
+                            905 N Dobson Rd
+                            <br/>Mesa, AZ 85201
+                                <br/>
+(480) 834-0573                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Metrocenter"">Metrocenter</a>
+                        </h2>
+
+                        <p>
+                            3111 W Peoria Ave
+                            <br/>Phoenix, AZ 85029
+                                <br/>
+(602) 595-4003                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Northern-Arizona-University"">Northern Arizona University</a>
+                        </h2>
+
+                        <p>
+                            Nau Dining
+                                <br/>
+P.O. Box 5736                            <br/>Flagstaff, AZ 86011
+                                <br/>
+(928) 523-8675                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Oracle-Road"">Oracle Road</a>
+                        </h2>
+
+                        <p>
+                            4585 N Oracle Rd
+                            <br/>Tucson, AZ 85705
+                                <br/>
+(520) 408-2456                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Paradise-Valley"">Paradise Valley</a>
+                        </h2>
+
+                        <p>
+                            12031 N Tatum Blvd
+                            <br/>Phoenix, AZ 85028
+                                <br/>
+(602) 923-0388                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Prescott-Valley-Crossroads"">Prescott Valley Crossroads</a>
+                        </h2>
+
+                        <p>
+                            5773 E State Route 69
+                            <br/>Prescott Valley, AZ 86314
+                                <br/>
+(928) 778-0112                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Queen-Creek"">Queen Creek</a>
+                        </h2>
+
+                        <p>
+                            20455 E Rittenhouse Rd
+                            <br/>Queen Creek, AZ 85142
+                                <br/>
+(480) 834-0757                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Raintree-Drive--101"">Raintree Drive &amp; 101</a>
+                        </h2>
+
+                        <p>
+                            14995 N 87th St
+                            <br/>Scottsdale, AZ 85260
+                                <br/>
+(480) 922-4540                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/San-Tan-Village-Marketplace"">San Tan Village Marketplace</a>
+                        </h2>
+
+                        <p>
+                            2533 S Market St
+                            <br/>Gilbert, AZ 85295
+                                <br/>
+(480) 814-7200                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Scottsdale-101"">Scottsdale 101</a>
+                        </h2>
+
+                        <p>
+                            7000 E Mayo Blvd Bldg 2
+                            <br/>Phoenix, AZ 85054
+                                <br/>
+(480) 419-6039                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Stapley-Drive"">Stapley Drive</a>
+                        </h2>
+
+                        <p>
+                            1664 S Stapley Dr
+                            <br/>Mesa, AZ 85204
+                                <br/>
+(480) 892-9714                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Superstition-Springs-Center"">Superstition Springs Center</a>
+                        </h2>
+
+                        <p>
+                            6555 E Southern Ave Ste 2012
+                            <br/>Mesa, AZ 85206
+                                <br/>
+(480) 981-1858                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Surprise-Marketplace"">Surprise Marketplace</a>
+                        </h2>
+
+                        <p>
+                            13725 W Bell Rd
+                            <br/>Surprise, AZ 85374
+                                <br/>
+(623) 584-7795                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Tanque-Verde"">Tanque Verde</a>
+                        </h2>
+
+                        <p>
+                            6675 E Grant Rd
+                            <br/>Tucson, AZ 85715
+                                <br/>
+(520) 305-4407                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Thunderbird"">Thunderbird</a>
+                        </h2>
+
+                        <p>
+                            5908 W Thunderbird Rd
+                            <br/>Glendale, AZ 85306
+                                <br/>
+(602) 283-4848                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/University-at-Mill"">University at Mill</a>
+                        </h2>
+
+                        <p>
+                            25 W University Dr
+                            <br/>Tempe, AZ 85281
+                                <br/>
+(480) 968-6899                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/University-of-Arizona-SUMC"">University of Arizona-SUMC</a>
+                        </h2>
+
+                        <p>
+                            1303 E University Blvd
+                                <br/>
+Suite 149                            <br/>Tucson, AZ 85719
+                                <br/>
+(520) 626-0020                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/AZ/Yuma"">Yuma</a>
+                        </h2>
+
+                        <p>
+                            1935 E 16th St
+                            <br/>Yuma, AZ 85365
+                                <br/>
+(928) 783-4321                        </p>
+                    </div>
+    "

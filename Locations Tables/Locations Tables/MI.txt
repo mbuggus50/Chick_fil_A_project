@@ -1,0 +1,147 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MI/54th-and-131"">54th and 131</a>
+                        </h2>
+
+                        <p>
+                            700 54th St SW
+                            <br/>Wyoming, MI 49509
+                                <br/>
+(616) 534-2961                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MI/Detroit-Medical-Center"">Detroit Medical Center</a>
+                        </h2>
+
+                        <p>
+                            3990 John R St
+                            <br/>Detroit, MI 48201
+                                <br/>
+(313) 831-0200                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MI/Detroit-Metropolitan-Airport"">Detroit Metropolitan Airport</a>
+                        </h2>
+
+                        <p>
+                            2562 Worldgateway Pl
+                                <br/>
+McNamara Terminal, Core 10                            <br/>Detroit, MI 48242
+                                <br/>
+(734) 941-3481                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MI/Eastern-Michigan-University"">Eastern Michigan University</a>
+                        </h2>
+
+                        <p>
+                            878 W Cross St.
+                                <br/>
+McKenny Hall                            <br/>Ypsilanti, MI 48197
+                                <br/>
+(734) 487-0260                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MI/Grand-Rapids-South"">Grand Rapids South</a>
+                        </h2>
+
+                        <p>
+                            1545 Edgeknoll Dr SE
+                            <br/>Grand Rapids, MI 49508
+                                <br/>
+(616) 656-6000                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MI/Holland"">Holland</a>
+                        </h2>
+
+                        <p>
+                            2332 N Park Dr
+                            <br/>Holland, MI 49424
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MI/Lansing"">Lansing</a>
+                        </h2>
+
+                        <p>
+                            5617 W Saginaw Hwy
+                            <br/>Lansing, MI 48917
+                                <br/>
+(517) 321-7800                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MI/Oakland-University"">Oakland University</a>
+                        </h2>
+
+                        <p>
+                            2200 N Squirrel Rd
+                                <br/>
+107 Oakland Center                            <br/>Rochester, MI 48309
+                                <br/>
+(248) 370-2518                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MI/Okemos"">Okemos</a>
+                        </h2>
+
+                        <p>
+                            2075 W Grand River Ave
+                            <br/>Okemos, MI 48864
+                                <br/>
+(855) 692-7474                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MI/Somerset-Collection-North"">Somerset Collection North</a>
+                        </h2>
+
+                        <p>
+                            2800 W Big Beaver Rd Ste Y-323
+                            <br/>Troy, MI 48084
+                                <br/>
+(248) 930-0135                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MI/Terminated-Beltline--Knapp"">Terminated Beltline &amp; Knapp</a>
+                        </h2>
+
+                        <p>
+                            2183 E Beltline Ave NE
+                            <br/>Grand Rapids, MI 49525
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/MI/Westnedge"">Westnedge</a>
+                        </h2>
+
+                        <p>
+                            6202 S Westnedge Ave
+                            <br/>Portage, MI 49002
+                                <br/>
+(269) 327-0877                        </p>
+                    </div>
+    "

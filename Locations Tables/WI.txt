@@ -1,0 +1,97 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/WI/124th-and-Capitol"">124th and Capitol</a>
+                        </h2>
+
+                        <p>
+                            12625 W Capitol Dr
+                            <br/>Brookfield, WI 53005
+                                <br/>
+(262) 373-0609                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/WI/Bluemound"">Bluemound</a>
+                        </h2>
+
+                        <p>
+                            1 N Moorland Rd
+                            <br/>Brookfield, WI 53005
+                                <br/>
+(262) 786-2443                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/WI/Drexel-Town-Square"">Drexel Town Square</a>
+                        </h2>
+
+                        <p>
+                            150 W Town Square Way
+                            <br/>Oak Creek, WI 53154
+                                <br/>
+(414) 571-0048                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/WI/East-Madison"">East Madison</a>
+                        </h2>
+
+                        <p>
+                            4212 E Washington Ave
+                            <br/>Madison, WI 53704
+                                <br/>
+(608) 245-2045                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/WI/Greendale"">Greendale</a>
+                        </h2>
+
+                        <p>
+                            5351 S 76th St
+                            <br/>Greendale, WI 53129
+                                <br/>
+(414) 423-0853                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/WI/Racine"">Racine</a>
+                        </h2>
+
+                        <p>
+                            5315 Washington Ave
+                            <br/>Mount Pleasant, WI 53406
+                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/WI/West-Allis-Center"">West Allis Center</a>
+                        </h2>
+
+                        <p>
+                            2645 S 108th St
+                            <br/>West Allis, WI 53227
+                                <br/>
+(414) 327-4885                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/WI/West-Towne"">West Towne</a>
+                        </h2>
+
+                        <p>
+                            430 S Gammon Rd
+                            <br/>Madison, WI 53719
+                                <br/>
+(608) 833-4344                        </p>
+                    </div>
+    "

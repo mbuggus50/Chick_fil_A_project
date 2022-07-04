@@ -1,0 +1,26 @@
+"
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/NH/Pheasant-Lane-Mall"">Pheasant Lane Mall</a>
+                        </h2>
+
+                        <p>
+                            310 Daniel Webster Hwy Ste 144
+                            <br/>Nashua, NH 03060
+                                <br/>
+(603) 891-1000                        </p>
+                    </div>
+                    ^ class=""location"">
+                        <h2>
+
+                            <a href=""/Locations/NH/Somerset-Plaza"">Somerset Plaza</a>
+                        </h2>
+
+                        <p>
+                            377 Amherst St
+                            <br/>Nashua, NH 03063
+                                <br/>
+(603) 595-2202                        </p>
+                    </div>
+    "
