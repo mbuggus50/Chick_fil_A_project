@@ -1,6 +1,5 @@
 # Chick_fil_A_project
 
-## Chick_Fil_A_locations: This notebook process data from the messy HTML files
 ### This project entails processing unstructured HTML data into structured tabular form that can be used for data analysis purpose e.g. data Frame and database). 
 ### Important steps: 
 ### To accomplish this assignment the following steps were followed: 
